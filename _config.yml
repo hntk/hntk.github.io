@@ -28,9 +28,10 @@ twitter_username: kohupro
 github_username:  hntk
 
 # Build settings
-theme: hacker
+remote_theme: pages-themes/hacker@v02.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
