@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kole Hunt - Technical Solutions Architect at World Wide Technology
+title: Kole Hunt - Technical Solutions Architect
 email: kole@kohu.pro
 description: >- # this means to ignore newlines until "baseurl:"
   Discover the intricacies of cybersecurity through the lens of seasoned professional, Kole Hunt.  Uncovering the latest threats and protective measures, this blog aims to be a vital resource for individuals and organizations looking to bolster their digital defense.
