@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume - Kole Hunt
+title: Resume
 permalink: /resume/
 ---
 ### Kole Tilman Hunt
