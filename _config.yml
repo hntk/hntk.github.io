@@ -23,7 +23,7 @@ email: kole@kohu.pro
 description: >- # this means to ignore newlines until "baseurl:"
   Discover the intricacies of cybersecurity through the lens of seasoned professional, Kole Hunt.  Uncovering the latest threats and protective measures, this blog aims to be a vital resource for individuals and organizations looking to bolster their digital defense.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.kohu.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kohupro
 github_username:  hntk
 
