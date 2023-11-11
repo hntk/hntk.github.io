@@ -3,7 +3,7 @@ layout: home
 title: Resume
 permalink: /resume/
 ---
-### Kole Tilman Hunt
+# Kole Tilman Hunt
 **Email:** kole.t.hunt@gmail.com  
 **Phone:** By Request Only 
 
@@ -12,7 +12,7 @@ permalink: /resume/
 - **Western Governors University** – B.S. in Information Technology - Security (2016)
 - **Cochise College** – A.A.S in Information Security (2011)
 
-# Certifications
+### Certifications
 - Certified Ethical Hacker (CEH)
 - Microsoft Certified Professional
 - CompTIA Security+
@@ -29,7 +29,7 @@ permalink: /resume/
 
 ## Professional Experience
 
-# Technical Solutions Architect II/III
+### Technical Solutions Architect II/III
 **World Wide Technology – Sierra Vista Arizona**  
 *January 2020 to Present*
 - Develops complex cybersecurity solutions services.
@@ -38,7 +38,7 @@ permalink: /resume/
 - Participates in pre-sales to qualify and close deals.
 - Writes Statements of Work (SOW’s) for consulting to managed service offerings.
 
-# Technical Solutions Architect
+### Technical Solutions Architect
 **World Wide Technology – Sierra Vista Arizona**  
 *July 2017 to December 2019*
 - Served as Principal Architect and Tanium Subject Matter Expert.
