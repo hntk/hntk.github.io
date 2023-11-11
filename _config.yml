@@ -30,7 +30,7 @@ linkedin_username: kole-hunt
 
 # Build settings
 theme: hacker
-#remote_theme: pages-themes/hacker@v02.0
+remote_theme: pages-themes/hacker@v02.0
 plugins:
   - jekyll-feed
 #  - jekyll-remote-theme
