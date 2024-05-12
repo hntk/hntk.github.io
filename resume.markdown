@@ -13,6 +13,7 @@ permalink: /resume/
 - **Cochise College** – A.A.S in Information Security (2011)
 
 ### Certifications
+- Certified Information Systems Security Professional (CISSP)
 - Certified Ethical Hacker (CEH)
 - Microsoft Certified Professional
 - CompTIA Security+
@@ -29,9 +30,13 @@ permalink: /resume/
 
 ## Professional Experience
 
+### Senior Cybersecurity Consultant
+**World Wide Technology – Sierra Vista Arizona**  
+*July 2022 to Present*
+
 ### Technical Solutions Architect II/III
 **World Wide Technology – Sierra Vista Arizona**  
-*January 2020 to Present*
+*January 2020 to June 2022*
 - Develops complex cybersecurity solutions services.
 - Consults customers as a trusted advisor.
 - Maintains partner relationships with multiple vendors.
