@@ -1,0 +1,20 @@
+---
+layout: kohu
+---
+<article class="post-shell wrap">
+  <div class="post-heading">
+    <a class="link" href="{{ '/blog/' | relative_url }}">← All writing</a>
+    <div class="eyebrow post-category">{{ page.categories | join: ' / ' | escape }}</div>
+    <h1>{{ page.title | escape }}</h1>
+    <div class="post-meta"><span>{{ page.author | default: 'Kole Hunt' | escape }}</span><span aria-hidden="true">/</span><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time></div>
+  </div>
+  <div class="prose">{{ content }}</div>
+  <div class="post-end">
+    <p>Continue the conversation.</p>
+    <div class="links"><a class="link" href="mailto:kole@kohu.pro">Email Kole ↗</a><a class="link" href="{{ '/feed.xml' | relative_url }}">Follow via RSS ↗</a></div>
+  </div>
+  <nav class="post-pagination" aria-label="More articles">
+    {% if page.previous.url %}<a href="{{ page.previous.url | relative_url }}"><span class="eyebrow">← Previous article</span><strong>{{ page.previous.title | escape }}</strong></a>{% endif %}
+    {% if page.next.url %}<a href="{{ page.next.url | relative_url }}"><span class="eyebrow">Next article →</span><strong>{{ page.next.title | escape }}</strong></a>{% endif %}
+  </nav>
+</article>

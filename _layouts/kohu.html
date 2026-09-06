@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/kohu-favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/kohu.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/kohu-blog.css' | relative_url }}">
+  {% feed_meta %}
+</head>
+<body class="blog-site">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Kohu home">ko<span>hu.</span></a>
+    <nav aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}#about">About</a>
+      <a href="{{ '/' | relative_url }}#expertise">Expertise</a>
+      <a href="{{ '/' | relative_url }}#work">Selected work</a>
+      <a href="{{ '/blog/' | relative_url }}">Writing</a>
+      <a href="{{ '/' | relative_url }}#speaking">Speaking</a>
+    </nav>
+    <a class="navcta" href="{{ '/' | relative_url }}#contact">Let’s connect ↗</a>
+  </header>
+  <main id="main">{{ content }}</main>
+  <footer class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Kohu home">ko<span>hu.</span></a>
+    <span>© {{ site.time | date: '%Y' }} Kole Hunt</span>
+    <div>
+      <a href="https://www.linkedin.com/in/kole-hunt/">LinkedIn ↗</a>
+      <a href="https://github.com/hntk">GitHub ↗</a>
+      <a href="{{ '/blog/' | relative_url }}">Blog archive ↗</a>
+    </div>
+  </footer>
+</body>
+</html>

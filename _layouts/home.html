@@ -1,0 +1,22 @@
+---
+layout: kohu
+---
+<section class="archive wrap">
+  <div class="archive-heading">
+    <div class="eyebrow">WRITING / KOLE HUNT</div>
+    <h1>Notes <em>from the field.</em></h1>
+    <p>Perspectives on cybersecurity, technical leadership, and learning through experience.</p>
+    <a class="link" href="{{ '/feed.xml' | relative_url }}">Follow via RSS ↗</a>
+  </div>
+  {{ content }}
+  <div class="archive-list">
+    {% for post in site.posts %}
+    <article class="archive-entry">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y' }}</time>
+      <div><div class="eyebrow">{{ post.categories | join: ' / ' | escape }}</div><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }} ↗</a></h2><p>{{ post.excerpt | strip_html | truncatewords: 36 }}</p><a class="link" href="{{ post.url | relative_url }}">Read article →</a></div>
+    </article>
+    {% else %}
+    <p>New writing is on the way.</p>
+    {% endfor %}
+  </div>
+</section>
