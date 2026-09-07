@@ -1,18 +1,42 @@
 {
-  "updated": "2026-09-07T06:55:31.950926+00:00",
+  "updated": "2026-09-07T12:41:21.000353+00:00",
   "items": [
     {
-      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-      "published": "2026-09-07T06:17:41+00:00",
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "published": "2026-09-07T12:16:32+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "published": "2026-09-07T01:15:43+00:00",
+      "title": "Automobile Camouflage to Hide from Flock Cameras",
+      "url": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
+      "published": "2026-09-07T11:06:40+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "published": "2026-09-07T11:00:03+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "published": "2026-09-07T10:36:37+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "published": "2026-09-07T10:32:40+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -32,14 +56,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "published": "2026-09-06T14:23:46+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
@@ -64,14 +80,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "published": "2026-09-05T15:17:36+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "OpenAI Agents Hacked Another Website",
@@ -117,14 +125,6 @@
       "title": "Security Vulnerability in a Voting System",
       "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
       "published": "2026-09-04T11:09:35+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-      "published": "2026-09-04T10:35:17+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
       "category": "cybersecurity"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-07T06:55:31.950926+00:00"
+      "last_success": "2026-09-07T12:41:21.000353+00:00"
     }
   ]
 }
