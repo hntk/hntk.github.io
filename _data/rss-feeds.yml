@@ -1,0 +1,120 @@
+# News & Signals — source configuration
+# Edit this file to review sources, add feeds, or disable a source.
+# Configuration only: the RSS fetcher and scheduled refresh are not installed yet.
+# Feed URLs are candidates pending end-to-end fetch/parse validation.
+# enabled selects a source for inclusion once the integration is implemented.
+#
+# To add a source, copy one block below and give it a unique id.
+# category must match one of the category IDs listed below.
+# Set enabled: false to pause a source without deleting its settings.
+# Use a public RSS/Atom URL, not the site's ordinary article page.
+# This repository is public; do not put credentials or private feed tokens here.
+
+version: 1
+
+categories:
+  - id: offensive-security
+    label: Offensive Security
+  - id: cybersecurity
+    label: Cybersecurity
+  - id: ai
+    label: AI
+  - id: tech-architecture
+    label: Tech & Architecture
+
+# Intended defaults for the forthcoming integration.
+settings:
+  max_items_per_source: 3
+  max_items_total: 36
+
+feeds:
+  - id: portswigger
+    name: "PortSwigger Research"
+    url: "https://portswigger.net/research/rss"
+    category: offensive-security
+    enabled: true
+    validation_status: pending
+
+  - id: specterops
+    name: "SpecterOps"
+    url: "https://specterops.io/feed/"
+    category: offensive-security
+    enabled: true
+    validation_status: pending
+
+  - id: trail-of-bits
+    name: "Trail of Bits"
+    url: "https://blog.trailofbits.com/feed/"
+    category: offensive-security
+    enabled: true
+    validation_status: pending
+
+  - id: bleepingcomputer
+    name: "BleepingComputer"
+    url: "https://www.bleepingcomputer.com/feed/"
+    category: cybersecurity
+    enabled: true
+    validation_status: pending
+
+  - id: schneier
+    name: "Schneier on Security"
+    url: "https://www.schneier.com/feed/atom/"
+    category: cybersecurity
+    enabled: true
+    validation_status: pending
+
+  - id: dark-reading
+    name: "Dark Reading"
+    url: "https://www.darkreading.com/rss.xml"
+    category: cybersecurity
+    enabled: true
+    validation_status: pending
+
+  - id: wired
+    name: "WIRED Security"
+    url: "https://www.wired.com/feed/category/security/latest/rss"
+    category: cybersecurity
+    enabled: true
+    validation_status: pending
+
+  - id: simon-willison
+    name: "Simon Willison"
+    url: "https://simonwillison.net/atom/everything/"
+    category: ai
+    enabled: true
+    validation_status: pending
+
+  - id: microsoft-research
+    name: "Microsoft Research"
+    url: "https://www.microsoft.com/en-us/research/feed/"
+    category: ai
+    enabled: true
+    validation_status: pending
+
+  - id: nvidia
+    name: "NVIDIA"
+    url: "https://blogs.nvidia.com/feed/"
+    category: ai
+    enabled: true
+    validation_status: pending
+
+  - id: hugging-face
+    name: "Hugging Face"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: ai
+    enabled: true
+    validation_status: pending
+
+  - id: ars-technica
+    name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/index"
+    category: tech-architecture
+    enabled: true
+    validation_status: pending
+
+  - id: cloudflare
+    name: "Cloudflare"
+    url: "https://blog.cloudflare.com/rss/"
+    category: tech-architecture
+    enabled: true
+    validation_status: pending
