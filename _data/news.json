@@ -1,0 +1,373 @@
+{
+  "updated": "2026-09-07T01:51:46.479257+00:00",
+  "items": [
+    {
+      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+      "published": "2026-09-07T01:15:43+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "published": "2026-09-06T23:57:40+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "published": "2026-09-06T14:40:07+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "published": "2026-09-06T14:23:46+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "published": "2026-09-06T11:55:26+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+      "published": "2026-09-06T10:00:35+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "published": "2026-09-06T09:08:06+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+      "published": "2026-09-05T15:17:36+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "published": "2026-09-05T14:29:13+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "published": "2026-09-05T10:30:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Using a VM to Contain an AI Agent",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
+      "published": "2026-09-04T16:31:38+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
+      "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+      "published": "2026-09-04T15:57:31+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
+      "published": "2026-09-04T13:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Insurers Search for Answers to Rein in Rogue AI",
+      "url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+      "published": "2026-09-04T12:15:03+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Security Vulnerability in a Voting System",
+      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+      "published": "2026-09-04T11:09:35+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
+      "published": "2026-09-04T10:35:17+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+      "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
+      "published": "2026-09-04T10:30:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "published": "2026-09-03T21:56:21+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "published": "2026-09-03T21:03:02+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "published": "2026-09-03T16:00:59+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published": "2026-09-03T13:13:48+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "published": "2026-09-03T13:00:35+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "NVIDIA to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "published": "2026-09-03T11:56:49+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Demystifying Agent Tradecraft: Introducing SpecterOps Skills",
+      "url": "https://specterops.io/blog/2026/09/02/specterops-skills/",
+      "published": "2026-09-02T18:00:00+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "published": "2026-09-01T12:59:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "published": "2026-08-31T16:00:00+00:00",
+      "source": "Microsoft Research",
+      "source_id": "microsoft-research",
+      "category": "ai"
+    },
+    {
+      "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+      "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+      "published": "2026-08-31T12:59:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Why SpecterOps Signed OpenAI’s Call for Collective Cyber Defense",
+      "url": "https://specterops.io/blog/2026/08/27/specterops-openai-collective-cyber-defense/",
+      "published": "2026-08-27T17:45:18+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "Cleartext Credential Recovery in ServiceNow",
+      "url": "https://specterops.io/blog/2026/08/27/cleartext-credential-recovery-servicenow/",
+      "published": "2026-08-27T16:00:00+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "published": "2026-08-26T11:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "What's in a tag name? JavaScript, apparently",
+      "url": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+      "published": "2026-08-25T14:24:32+00:00",
+      "source": "PortSwigger Research",
+      "source_id": "portswigger",
+      "category": "offensive-security"
+    },
+    {
+      "title": "State divergence enables unauthorized access",
+      "url": "https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/",
+      "published": "2026-08-25T11:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "published": "2026-08-20T16:00:00+00:00",
+      "source": "Microsoft Research",
+      "source_id": "microsoft-research",
+      "category": "ai"
+    },
+    {
+      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "published": "2026-08-12T16:00:00+00:00",
+      "source": "Microsoft Research",
+      "source_id": "microsoft-research",
+      "category": "ai"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ars-technica",
+      "name": "Ars Technica",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "bleepingcomputer",
+      "name": "BleepingComputer",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "dark-reading",
+      "name": "Dark Reading",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "hugging-face",
+      "name": "Hugging Face",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "microsoft-research",
+      "name": "Microsoft Research",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "portswigger",
+      "name": "PortSwigger Research",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "schneier",
+      "name": "Schneier on Security",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "simon-willison",
+      "name": "Simon Willison",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "specterops",
+      "name": "SpecterOps",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "trail-of-bits",
+      "name": "Trail of Bits",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    },
+    {
+      "id": "wired",
+      "name": "WIRED Security",
+      "status": "ok",
+      "last_success": "2026-09-07T01:51:46.479257+00:00"
+    }
+  ]
+}
