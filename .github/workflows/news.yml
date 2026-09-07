@@ -1,0 +1,56 @@
+name: Refresh News and Signals
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '_data/rss-feeds.yml'
+      - 'scripts/refresh_news.py'
+      - '.github/workflows/news.yml'
+      - 'news/**'
+      - 'assets/news.*'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: news-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install feed readers
+        run: pip install feedparser==6.0.11 PyYAML==6.0.2
+      - name: Refresh configured sources
+        run: python scripts/refresh_news.py
+      - name: Save current headlines
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh News and Signals"
+            git push
+          fi
+      - name: Build GitHub Pages
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,33 @@
+---
+layout: kohu
+title: News & Signals
+permalink: /news/
+---
+<link rel="stylesheet" href="{{ '/assets/news.css' | relative_url }}">
+<section class="archive wrap news-page">
+  <div class="archive-heading">
+    <div class="eyebrow">THE READING LIST / CURATED SOURCES</div>
+    <h1>News <em>& Signals.</em></h1>
+    <p>Offensive security, emerging threats, AI, and the technology shaping enterprise architecture.</p>
+    <p class="news-updated">{% if site.data.news.updated %}Last checked {{ site.data.news.updated | date: '%B %-d, %Y at %H:%M UTC' }} · Scheduled every six hours{% else %}The first feed refresh is in progress.{% endif %}</p>
+  </div>
+  <div class="news-filters" aria-label="Filter headlines" hidden>
+    <button type="button" data-filter="all" aria-pressed="true">All signals</button>
+    {% for category in site.data.rss-feeds.categories %}<button type="button" data-filter="{{ category.id | escape }}" aria-pressed="false">{{ category.label | escape }}</button>{% endfor %}
+  </div>
+  <p id="news-count" role="status" aria-live="polite"></p>
+  <div class="news-grid">
+  {% for item in site.data.news.items %}
+    <article class="news-card" data-category="{{ item.category | escape }}">
+      <div class="eyebrow">{{ item.source | escape }}</div>
+      <h2><a href="{{ item.url | escape }}" target="_blank" rel="noopener noreferrer">{{ item.title | escape }} <span aria-hidden="true">↗</span></a></h2>
+      <time datetime="{{ item.published | escape }}">{{ item.published | date: '%b %-d, %Y' }}</time>
+    </article>
+  {% else %}
+    <p>Headlines will appear after the first successful refresh. Explore the selected publishers below.</p>
+  {% endfor %}
+  </div>
+  <p id="news-empty" hidden>No headlines in this category yet. Please check back after the next refresh.</p>
+  <details class="news-sources"><summary>Sources & feed availability</summary><p>Headlines link to the original publishers. Some articles may require a subscription. When a source is unavailable, its last retrieved headlines are retained.</p><ul>{% for source in site.data.news.sources %}<li><strong>{{ source.name | escape }}</strong> — {% if source.status == 'ok' %}Updated{% else %}Temporarily unavailable{% if source.last_success %}; last retrieved {{ source.last_success | date: '%b %-d, %Y' }}{% endif %}{% endif %}</li>{% endfor %}</ul><a class="link" href="https://github.com/hntk/hntk.github.io/blob/main/_data/rss-feeds.yml">View feed configuration ↗</a></details>
+</section>
+<script src="{{ '/assets/news.js' | relative_url }}" defer></script>
