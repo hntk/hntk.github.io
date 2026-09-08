@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-07T18:34:13.555663+00:00",
+  "updated": "2026-09-08T01:04:42.195755+00:00",
   "items": [
+    {
+      "title": "Creepy crawlies",
+      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "published": "2026-09-07T23:08:58+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Quoting Jakub Pachocki",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "published": "2026-09-07T22:26:25+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Video compressor",
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "published": "2026-09-07T18:29:07+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
       "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
@@ -42,22 +66,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-      "published": "2026-09-06T23:57:40+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "The purpose of DNS is to spread scams",
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-      "published": "2026-09-06T14:40:07+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
       "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
       "published": "2026-09-06T11:55:26+00:00",
@@ -72,14 +80,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-      "published": "2026-09-06T09:08:06+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "OpenAI Agents Hacked Another Website",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-07T18:34:13.555663+00:00"
+      "last_success": "2026-09-08T01:04:42.195755+00:00"
     }
   ]
 }
