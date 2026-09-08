@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-08T06:44:46.072868+00:00",
+  "updated": "2026-09-08T12:41:04.777709+00:00",
   "items": [
+    {
+      "title": "Hackers build AI frameworks for widescale credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+      "published": "2026-09-08T12:03:03+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "published": "2026-09-08T12:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+      "published": "2026-09-08T11:57:51+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Stealing AI Reasoning Traces",
+      "url": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
+      "published": "2026-09-08T10:20:04+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "published": "2026-09-08T07:35:50+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "llm 0.35",
       "url": "https://simonwillison.net/2026/Sep/7/llm/",
@@ -24,30 +64,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "published": "2026-09-07T16:50:29+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-      "published": "2026-09-07T15:39:51+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mathspace discloses data breach affecting over 1 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-      "published": "2026-09-07T13:05:11+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Automobile Camouflage to Hide from Flock Cameras",
@@ -122,25 +138,9 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Security Vulnerability in a Voting System",
-      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-      "published": "2026-09-04T11:09:35+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
       "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
       "published": "2026-09-04T10:30:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "published": "2026-09-03T21:56:21+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-08T06:44:46.072868+00:00"
+      "last_success": "2026-09-08T12:41:04.777709+00:00"
     }
   ]
 }
