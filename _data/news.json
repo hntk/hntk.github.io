@@ -1,6 +1,86 @@
 {
-  "updated": "2026-09-09T12:41:07.578028+00:00",
+  "updated": "2026-09-09T18:35:08.475918+00:00",
   "items": [
+    {
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "published": "2026-09-09T16:48:33+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
+      "url": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
+      "published": "2026-09-09T16:30:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Driver’s License Data for Sale",
+      "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
+      "published": "2026-09-09T16:05:00+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "published": "2026-09-09T16:00:42+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "published": "2026-09-09T15:36:24+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "url": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "published": "2026-09-09T15:31:23+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
+      "url": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
+      "published": "2026-09-09T14:39:44+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "published": "2026-09-09T14:01:11+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "NOAA is putting commercial fishing ahead of conservation",
+      "url": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
+      "published": "2026-09-09T13:58:44+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "published": "2026-09-09T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
     {
       "title": "Claude Fable Solves a Historical Cipher",
       "url": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
@@ -24,30 +104,6 @@
       "source": "Trail of Bits",
       "source_id": "trail-of-bits",
       "category": "offensive-security"
-    },
-    {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "published": "2026-09-09T10:11:29+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "published": "2026-09-09T08:44:22+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "published": "2026-09-09T07:30:15+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Quoting Terence Tao",
@@ -90,25 +146,9 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
-      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-      "published": "2026-09-08T21:23:13+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
       "published": "2026-09-08T21:03:46+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-      "published": "2026-09-08T20:36:15+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
@@ -170,22 +210,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Stealing AI Reasoning Traces",
-      "url": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
-      "published": "2026-09-08T10:20:04+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI Agents Hacked Another Website",
-      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "published": "2026-09-05T10:30:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
       "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
       "published": "2026-09-03T21:03:02+00:00",
@@ -218,36 +242,12 @@
       "category": "ai"
     },
     {
-      "title": "NVIDIA to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "published": "2026-09-03T11:56:49+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "Demystifying Agent Tradecraft: Introducing SpecterOps Skills",
       "url": "https://specterops.io/blog/2026/09/02/specterops-skills/",
       "published": "2026-09-02T18:00:00+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
-      "url": "https://blog.cloudflare.com/cache-transcoding/",
-      "published": "2026-09-01T12:59:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-09T12:41:07.578028+00:00"
+      "last_success": "2026-09-09T18:35:08.475918+00:00"
     }
   ]
 }
