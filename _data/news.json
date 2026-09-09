@@ -1,18 +1,106 @@
 {
-  "updated": "2026-09-08T18:35:40.605775+00:00",
+  "updated": "2026-09-09T01:03:22.022887+00:00",
   "items": [
     {
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "published": "2026-09-08T18:18:05+00:00",
+      "title": "Quoting Terence Tao",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "published": "2026-09-09T00:20:17+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "published": "2026-09-08T23:55:12+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "published": "2026-09-08T22:46:33+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "LG TV shown scanning LAN for third-party phones and other devices",
+      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+      "published": "2026-09-08T21:52:29+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+      "published": "2026-09-08T21:26:02+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "published": "2026-09-08T21:23:13+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "published": "2026-09-08T21:11:46+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
+      "published": "2026-09-08T21:03:46+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+      "published": "2026-09-08T20:36:15+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "published": "2026-09-08T20:35:14+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "published": "2026-09-08T17:57:03+00:00",
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "published": "2026-09-08T20:24:16+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "published": "2026-09-08T20:12:51+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "published": "2026-09-08T20:08:55+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -24,14 +112,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-      "url": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-      "published": "2026-09-08T17:25:37+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "AIs as Modern Genies",
@@ -48,38 +128,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "Google complies with EU rules for travel searches, says the new results stink",
-      "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-      "published": "2026-09-08T16:49:55+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "published": "2026-09-08T16:35:47+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-      "url": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-      "published": "2026-09-08T16:31:21+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "The secret to protecting next-gen spacecraft might be eggshells",
-      "url": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-      "published": "2026-09-08T16:20:58+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -114,30 +162,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "llm 0.35",
-      "url": "https://simonwillison.net/2026/Sep/7/llm/",
-      "published": "2026-09-07T23:54:54+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Creepy crawlies",
-      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-      "published": "2026-09-07T23:08:58+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Quoting Jakub Pachocki",
-      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-      "published": "2026-09-07T22:26:25+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Automobile Camouflage to Hide from Flock Cameras",
       "url": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
       "published": "2026-09-07T11:06:40+00:00",
@@ -149,30 +173,6 @@
       "title": "OpenAI Agents Hacked Another Website",
       "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
       "published": "2026-09-05T10:30:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
-      "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-      "published": "2026-09-04T15:57:31+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-      "published": "2026-09-04T13:00:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
-      "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
-      "published": "2026-09-04T10:30:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-08T18:35:40.605775+00:00"
+      "last_success": "2026-09-09T01:03:22.022887+00:00"
     }
   ]
 }
