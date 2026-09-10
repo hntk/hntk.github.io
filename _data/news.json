@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-10T06:45:33.403464+00:00",
+  "updated": "2026-09-10T12:41:21.019465+00:00",
   "items": [
+    {
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "published": "2026-09-10T11:14:28+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AIs Compress Exploit Timeline",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
+      "published": "2026-09-10T10:40:35+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "published": "2026-09-10T10:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "published": "2026-09-10T09:10:20+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "published": "2026-09-10T08:08:16+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
+      "url": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
+      "published": "2026-09-10T07:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
     {
       "title": "Quoting Calif Research",
       "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
@@ -10,28 +58,20 @@
       "category": "ai"
     },
     {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published": "2026-09-10T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
       "title": ".blend URL Viewer",
       "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
       "published": "2026-09-09T23:58:32+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "published": "2026-09-09T21:40:44+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "published": "2026-09-09T21:30:36+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
@@ -47,14 +87,6 @@
       "published": "2026-09-09T21:15:27+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "published": "2026-09-09T21:02:14+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -98,14 +130,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
-      "url": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
-      "published": "2026-09-09T16:30:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Driver’s License Data for Sale",
       "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
       "published": "2026-09-09T16:05:00+00:00",
@@ -128,14 +152,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
-      "url": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
-      "published": "2026-09-09T14:39:44+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
@@ -178,14 +194,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "AIs as Modern Genies",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
-      "published": "2026-09-08T17:12:42+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "From Findings to Fixes: Getting Value from Red Team Results",
       "url": "https://specterops.io/blog/2026/09/08/from-findings-to-fixes-getting-value-from-red-team-results/",
       "published": "2026-09-08T17:00:00+00:00",
@@ -223,14 +231,6 @@
       "published": "2026-09-03T16:00:59+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "published": "2026-09-03T13:13:48+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-10T06:45:33.403464+00:00"
+      "last_success": "2026-09-10T12:41:21.019465+00:00"
     }
   ]
 }
