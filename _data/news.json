@@ -1,12 +1,100 @@
 {
-  "updated": "2026-09-09T18:35:08.475918+00:00",
+  "updated": "2026-09-10T01:01:54.967921+00:00",
   "items": [
     {
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "published": "2026-09-09T16:48:33+00:00",
+      "title": "Quoting Calif Research",
+      "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "published": "2026-09-10T00:56:41+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": ".blend URL Viewer",
+      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "published": "2026-09-09T23:58:32+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "published": "2026-09-09T21:40:44+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "published": "2026-09-09T21:30:36+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+      "url": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+      "published": "2026-09-09T21:19:55+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+      "published": "2026-09-09T21:15:27+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "published": "2026-09-09T21:02:14+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "published": "2026-09-09T20:55:02+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+      "published": "2026-09-09T20:27:40+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "published": "2026-09-09T20:06:28+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+      "url": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+      "published": "2026-09-09T19:47:50+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features",
+      "url": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
+      "published": "2026-09-09T19:14:26+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
       "category": "cybersecurity"
     },
     {
@@ -42,36 +130,12 @@
       "category": "ai"
     },
     {
-      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-      "url": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-      "published": "2026-09-09T15:31:23+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
       "url": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
       "published": "2026-09-09T14:39:44+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "published": "2026-09-09T14:01:11+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "NOAA is putting commercial fishing ahead of conservation",
-      "url": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
-      "published": "2026-09-09T13:58:44+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
@@ -90,14 +154,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "published": "2026-09-09T11:00:10+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "A “proof” of Fermat’s Last Theorem that fits the margin",
       "url": "https://blog.trailofbits.com/2026/09/09/a-proof-of-fermats-last-theorem-that-fits-the-margin/",
       "published": "2026-09-09T11:00:00+00:00",
@@ -112,54 +168,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-      "published": "2026-09-08T23:55:12+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-      "published": "2026-09-08T22:46:33+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "LG TV shown scanning LAN for third-party phones and other devices",
-      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "published": "2026-09-08T21:52:29+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
-      "published": "2026-09-08T21:26:02+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-      "published": "2026-09-08T21:03:46+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "published": "2026-09-08T20:12:51+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
     },
     {
       "title": "Token Analysis and Tracking System (TATS)",
@@ -200,14 +208,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
-      "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
-      "published": "2026-09-08T12:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
     },
     {
       "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-09T18:35:08.475918+00:00"
+      "last_success": "2026-09-10T01:01:54.967921+00:00"
     }
   ]
 }
