@@ -1,13 +1,117 @@
 {
-  "updated": "2026-09-11T12:40:44.773625+00:00",
+  "updated": "2026-09-11T18:34:08.629152+00:00",
   "items": [
     {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "published": "2026-09-11T11:15:22+00:00",
+      "title": "Why AI Is So Good at Scamming Humans",
+      "url": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+      "published": "2026-09-11T18:14:06+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "My Talk at DEF CON",
+      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
+      "published": "2026-09-11T18:06:24+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+      "published": "2026-09-11T17:47:11+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "published": "2026-09-11T17:26:50+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "AI Governance Can't Wait",
+      "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+      "published": "2026-09-11T17:10:56+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "published": "2026-09-11T16:29:44+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "NASA moving at warp speed to set up US Space Academy",
+      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+      "published": "2026-09-11T16:20:43+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Quoting huggingface.co/security.txt",
+      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+      "published": "2026-09-11T16:04:53+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+      "published": "2026-09-11T15:48:27+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Soft-deprecating re.match()",
+      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
+      "published": "2026-09-11T14:47:57+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "published": "2026-09-11T14:01:11+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "published": "2026-09-11T13:02:35+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Introducing automatic remediation policies with Cloudflare CASB",
+      "url": "https://blog.cloudflare.com/casb-policies/",
+      "published": "2026-09-11T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "published": "2026-09-11T11:30:58+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
     },
     {
       "title": "Cliff Stoll’s DEF CON Talk",
@@ -18,92 +122,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "published": "2026-09-11T09:39:37+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
       "url": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
       "published": "2026-09-11T09:15:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "published": "2026-09-11T07:55:15+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Datasette 1.0a39 and 0.65.4 security releases",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-      "published": "2026-09-11T03:27:16+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-      "published": "2026-09-11T01:00:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Any Nix package, live in your browser",
-      "url": "https://simonwillison.net/2026/Sep/10/trynix/",
-      "published": "2026-09-10T23:44:15+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
-      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
-      "published": "2026-09-10T22:16:05+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Native is now the future of mobile at Shopify",
-      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-      "published": "2026-09-10T21:11:15+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-      "published": "2026-09-10T20:55:29+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
-      "url": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
-      "published": "2026-09-10T20:36:03+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
-      "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
-      "published": "2026-09-10T19:09:29+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
@@ -128,14 +152,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
-      "published": "2026-09-10T15:29:12+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
@@ -183,14 +199,6 @@
       "published": "2026-09-09T21:15:27+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Driver’s License Data for Sale",
-      "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
-      "published": "2026-09-09T16:05:00+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
       "category": "cybersecurity"
     },
     {
@@ -242,14 +250,6 @@
       "category": "ai"
     },
     {
-      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "published": "2026-09-08T13:10:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
       "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
       "published": "2026-08-31T16:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-11T12:40:44.773625+00:00"
+      "last_success": "2026-09-11T18:34:08.629152+00:00"
     }
   ]
 }
