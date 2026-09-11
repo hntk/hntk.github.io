@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-11T06:44:29.901469+00:00",
+  "updated": "2026-09-11T12:40:44.773625+00:00",
   "items": [
+    {
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "published": "2026-09-11T11:15:22+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cliff Stoll’s DEF CON Talk",
+      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
+      "published": "2026-09-11T11:09:55+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "published": "2026-09-11T09:39:37+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+      "url": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+      "published": "2026-09-11T09:15:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "published": "2026-09-11T07:55:15+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Datasette 1.0a39 and 0.65.4 security releases",
       "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
@@ -34,14 +74,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "published": "2026-09-10T21:40:43+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Native is now the future of mobile at Shopify",
       "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
       "published": "2026-09-10T21:11:15+00:00",
@@ -63,22 +95,6 @@
       "published": "2026-09-10T20:36:03+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "September Windows Server updates break Remote Desktop Services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-      "published": "2026-09-10T20:34:37+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "published": "2026-09-10T19:15:07+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -170,14 +186,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features",
-      "url": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
-      "published": "2026-09-09T19:14:26+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Driver’s License Data for Sale",
       "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
       "published": "2026-09-09T16:05:00+00:00",
@@ -200,14 +208,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Claude Fable Solves a Historical Cipher",
-      "url": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
-      "published": "2026-09-09T11:08:26+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "A “proof” of Fermat’s Last Theorem that fits the margin",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-11T06:44:29.901469+00:00"
+      "last_success": "2026-09-11T12:40:44.773625+00:00"
     }
   ]
 }
