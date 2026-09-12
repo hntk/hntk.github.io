@@ -1,6 +1,86 @@
 {
-  "updated": "2026-09-11T18:34:08.629152+00:00",
+  "updated": "2026-09-12T01:00:48.848528+00:00",
   "items": [
+    {
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "published": "2026-09-12T00:42:25+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "published": "2026-09-11T23:34:45+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "So you want to use OpenRouter?",
+      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "published": "2026-09-11T22:49:18+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Random rewards enrich classic game-theory insights",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "published": "2026-09-11T21:41:16+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "published": "2026-09-11T21:14:26+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "published": "2026-09-11T20:19:09+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
+      "published": "2026-09-11T19:21:08+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "published": "2026-09-11T19:00:29+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "published": "2026-09-11T18:59:25+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+      "published": "2026-09-11T18:44:03+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
     {
       "title": "Why AI Is So Good at Scamming Humans",
       "url": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
@@ -34,83 +114,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI Governance Can't Wait",
-      "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
-      "published": "2026-09-11T17:10:56+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "published": "2026-09-11T16:29:44+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-      "published": "2026-09-11T16:20:43+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Quoting huggingface.co/security.txt",
-      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
-      "published": "2026-09-11T16:04:53+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
-      "published": "2026-09-11T15:48:27+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Soft-deprecating re.match()",
-      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
-      "published": "2026-09-11T14:47:57+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "published": "2026-09-11T14:01:11+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "published": "2026-09-11T13:02:35+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Introducing automatic remediation policies with Cloudflare CASB",
       "url": "https://blog.cloudflare.com/casb-policies/",
       "published": "2026-09-11T13:00:00+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "published": "2026-09-11T11:30:58+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
       "category": "tech-architecture"
     },
     {
@@ -192,14 +200,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "published": "2026-09-09T21:15:27+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
     },
     {
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-11T18:34:08.629152+00:00"
+      "last_success": "2026-09-12T01:00:48.848528+00:00"
     }
   ]
 }
