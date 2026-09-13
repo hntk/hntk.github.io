@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-12T18:30:24.002263+00:00",
+  "updated": "2026-09-13T01:08:42.386333+00:00",
   "items": [
+    {
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "published": "2026-09-12T23:56:42+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "published": "2026-09-12T21:16:09+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Quoting Paul Ford",
       "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
@@ -34,28 +50,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-      "published": "2026-09-12T00:42:25+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Some satellite companies still have an appetite for boutique launch services",
       "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
       "published": "2026-09-11T23:34:45+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "So you want to use OpenRouter?",
-      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-      "published": "2026-09-11T22:49:18+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Random rewards enrich classic game-theory insights",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-12T18:30:24.002263+00:00"
+      "last_success": "2026-09-13T01:08:42.386333+00:00"
     }
   ]
 }
