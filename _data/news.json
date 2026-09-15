@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-15T01:04:29.062308+00:00",
+  "updated": "2026-09-15T06:46:35.357342+00:00",
   "items": [
+    {
+      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+      "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+      "published": "2026-09-15T03:47:36+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
       "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
@@ -32,14 +40,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "published": "2026-09-14T21:04:32+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Microsoft releases emergency Windows updates to fix RDS failures",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-15T01:04:29.062308+00:00"
+      "last_success": "2026-09-15T06:46:35.357342+00:00"
     }
   ]
 }
