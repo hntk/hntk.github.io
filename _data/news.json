@@ -1,13 +1,101 @@
 {
-  "updated": "2026-09-15T12:41:01.303757+00:00",
+  "updated": "2026-09-15T18:33:18.183080+00:00",
   "items": [
     {
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "published": "2026-09-15T12:16:32+00:00",
+      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
+      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
+      "published": "2026-09-15T18:14:11+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+      "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
+      "published": "2026-09-15T17:58:09+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "published": "2026-09-15T16:55:59+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "published": "2026-09-15T16:55:40+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+      "published": "2026-09-15T16:45:37+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "published": "2026-09-15T16:40:14+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "2026-09-15T16:00:44+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+      "published": "2026-09-15T15:00:00+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+      "published": "2026-09-15T14:45:10+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trump EPA moves to wipe out climate rules for power plants",
+      "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
+      "published": "2026-09-15T13:43:51+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "published": "2026-09-15T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Give every teammate and agent the right level of access to your Workers",
+      "url": "https://blog.cloudflare.com/workers-granular-authorization/",
+      "published": "2026-09-15T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
     },
     {
       "title": "25 Years of Mass Surveillance Is Enough",
@@ -34,52 +122,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "published": "2026-09-15T09:50:25+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
       "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
       "published": "2026-09-15T09:00:42+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "published": "2026-09-15T08:40:20+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "published": "2026-09-15T07:00:30+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "published": "2026-09-15T03:47:36+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-      "published": "2026-09-14T22:06:24+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
@@ -130,22 +178,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
-      "url": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-      "published": "2026-09-14T16:41:10+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "published": "2026-09-14T15:00:52+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "Quoting Laurie Voss",
       "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
       "published": "2026-09-14T14:34:29+00:00",
@@ -178,14 +210,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "published": "2026-09-10T16:30:35+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "Unmasking SCCM Application Execution",
       "url": "https://specterops.io/blog/2026/09/10/unmasking-sccm-application-execution/",
       "published": "2026-09-10T16:00:00+00:00",
@@ -194,12 +218,12 @@
       "category": "offensive-security"
     },
     {
-      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-      "published": "2026-09-10T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
+      "title": "Beyond Tier Zero",
+      "url": "https://specterops.io/blog/2026/09/10/beyond-tier-zero/",
+      "published": "2026-09-10T13:26:32+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
     },
     {
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
@@ -218,22 +242,6 @@
       "category": "ai"
     },
     {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "published": "2026-09-09T15:36:24+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
-      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
-      "published": "2026-09-09T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "A “proof” of Fermat’s Last Theorem that fits the margin",
       "url": "https://blog.trailofbits.com/2026/09/09/a-proof-of-fermats-last-theorem-that-fits-the-margin/",
       "published": "2026-09-09T11:00:00+00:00",
@@ -245,14 +253,6 @@
       "title": "Token Analysis and Tracking System (TATS)",
       "url": "https://specterops.io/blog/2026/09/08/token-analysis-and-tracking-system-tats/",
       "published": "2026-09-08T17:30:00+00:00",
-      "source": "SpecterOps",
-      "source_id": "specterops",
-      "category": "offensive-security"
-    },
-    {
-      "title": "From Findings to Fixes: Getting Value from Red Team Results",
-      "url": "https://specterops.io/blog/2026/09/08/from-findings-to-fixes-getting-value-from-red-team-results/",
-      "published": "2026-09-08T17:00:00+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-15T12:41:01.303757+00:00"
+      "last_success": "2026-09-15T18:33:18.183080+00:00"
     }
   ]
 }
