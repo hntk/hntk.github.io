@@ -1,6 +1,70 @@
 {
-  "updated": "2026-09-15T06:46:35.357342+00:00",
+  "updated": "2026-09-15T12:41:01.303757+00:00",
   "items": [
+    {
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+      "published": "2026-09-15T12:16:32+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "published": "2026-09-15T11:01:41+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
+      "published": "2026-09-15T11:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "On the NSA’s Supercomputer from the 1960s",
+      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
+      "published": "2026-09-15T10:16:24+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "published": "2026-09-15T09:50:25+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "published": "2026-09-15T09:00:42+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "published": "2026-09-15T08:40:20+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "published": "2026-09-15T07:00:30+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "For the first time, the US military confirms it has deployed weapons in orbit",
       "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
@@ -26,36 +90,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-      "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-      "published": "2026-09-14T21:32:22+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "The contagion of fear",
       "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
       "published": "2026-09-14T21:18:13+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "published": "2026-09-14T20:52:18+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "published": "2026-09-14T20:36:02+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "What blog posts influenced your thinking the most?",
@@ -71,14 +111,6 @@
       "published": "2026-09-14T20:19:22+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "published": "2026-09-14T19:51:04+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -106,14 +138,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Using AI for Weapons Development",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-      "published": "2026-09-14T16:07:46+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
       "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
       "published": "2026-09-14T15:00:52+00:00",
@@ -128,14 +152,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Microsoft’s Patching",
-      "url": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-      "published": "2026-09-14T11:03:26+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
@@ -165,14 +181,6 @@
       "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
       "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "published": "2026-09-10T16:30:35+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-      "published": "2026-09-10T16:00:04+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
@@ -274,14 +282,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "State divergence enables unauthorized access",
-      "url": "https://blog.trailofbits.com/2026/08/25/state-divergence-enables-unauthorized-access/",
-      "published": "2026-08-25T11:00:00+00:00",
-      "source": "Trail of Bits",
-      "source_id": "trail-of-bits",
-      "category": "offensive-security"
-    },
-    {
       "title": "Broadening access to Skala creates a faster path to predictive DFT",
       "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
       "published": "2026-08-20T16:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-15T06:46:35.357342+00:00"
+      "last_success": "2026-09-15T12:41:01.303757+00:00"
     }
   ]
 }
