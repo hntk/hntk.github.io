@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-16T01:03:45.626460+00:00",
+  "updated": "2026-09-16T06:46:50.959753+00:00",
   "items": [
+    {
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "published": "2026-09-16T05:00:42+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "How chimps teach their kids tool tricks",
+      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "published": "2026-09-16T04:00:39+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
@@ -74,25 +90,9 @@
       "category": "cybersecurity"
     },
     {
-      "title": "18-year-old dies of measles in PA from severe neurological complication",
-      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-      "published": "2026-09-15T18:58:09+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
       "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
       "published": "2026-09-15T16:55:59+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-      "published": "2026-09-15T16:55:40+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-16T01:03:45.626460+00:00"
+      "last_success": "2026-09-16T06:46:50.959753+00:00"
     }
   ]
 }
