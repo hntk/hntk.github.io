@@ -1,18 +1,82 @@
 {
-  "updated": "2026-09-15T18:33:18.183080+00:00",
+  "updated": "2026-09-16T01:03:45.626460+00:00",
   "items": [
     {
-      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-      "published": "2026-09-15T18:14:11+00:00",
+      "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
+      "published": "2026-09-16T01:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Gemini Live audio",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "published": "2026-09-15T22:47:07+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "published": "2026-09-15T22:26:32+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
     },
     {
-      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
-      "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-      "published": "2026-09-15T17:58:09+00:00",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "published": "2026-09-15T22:24:34+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "published": "2026-09-15T21:37:35+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "published": "2026-09-15T20:34:15+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+      "published": "2026-09-15T20:19:17+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+      "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+      "published": "2026-09-15T20:16:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+      "published": "2026-09-15T19:27:19+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "18-year-old dies of measles in PA from severe neurological complication",
+      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+      "published": "2026-09-15T18:58:09+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -34,14 +98,6 @@
       "category": "ai"
     },
     {
-      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-      "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-      "published": "2026-09-15T16:45:37+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
       "published": "2026-09-15T16:40:14+00:00",
@@ -56,30 +112,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-      "published": "2026-09-15T15:00:00+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "published": "2026-09-15T14:45:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Trump EPA moves to wipe out climate rules for power plants",
-      "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
-      "published": "2026-09-15T13:43:51+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Have it both ways: stay discoverable in search while disallowing AI training",
@@ -122,22 +154,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "published": "2026-09-15T09:00:42+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
-      "published": "2026-09-14T21:37:28+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "The contagion of fear",
       "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
       "published": "2026-09-14T21:18:13+00:00",
@@ -154,14 +170,6 @@
       "category": "ai"
     },
     {
-      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
-      "published": "2026-09-14T20:19:22+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Upcoming Speaking Engagements",
       "url": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
       "published": "2026-09-14T19:02:45+00:00",
@@ -176,14 +184,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Quoting Laurie Voss",
-      "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-      "published": "2026-09-14T14:34:29+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-15T18:33:18.183080+00:00"
+      "last_success": "2026-09-16T01:03:45.626460+00:00"
     }
   ]
 }
