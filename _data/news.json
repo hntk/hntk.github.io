@@ -1,18 +1,106 @@
 {
-  "updated": "2026-09-16T12:42:03.419017+00:00",
+  "updated": "2026-09-16T18:34:53.340181+00:00",
   "items": [
     {
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "published": "2026-09-16T12:16:32+00:00",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "published": "2026-09-16T18:09:49+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Fighting Your Dragons Through Tough Tech Times",
+      "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
+      "published": "2026-09-16T18:00:54+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "published": "2026-09-16T17:26:41+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-      "published": "2026-09-16T12:11:19+00:00",
+      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+      "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+      "published": "2026-09-16T17:06:06+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+      "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+      "published": "2026-09-16T16:43:37+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+      "published": "2026-09-16T16:40:11+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Quoting Mustafa Suleyman",
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "published": "2026-09-16T16:00:54+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Ghostwriter v7.3.0: A Fresh New Look",
+      "url": "https://specterops.io/blog/2026/09/16/ghostwriter-v7-3-0/",
+      "published": "2026-09-16T16:00:00+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "What happens when neutrinos swap identities inside a supernova?",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+      "published": "2026-09-16T15:17:43+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+      "published": "2026-09-16T15:00:48+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "published": "2026-09-16T14:00:10+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "published": "2026-09-16T13:00:33+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "published": "2026-09-16T12:16:32+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -23,14 +111,6 @@
       "published": "2026-09-16T11:25:26+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "published": "2026-09-16T11:14:28+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -50,14 +130,6 @@
       "category": "ai"
     },
     {
-      "title": "How chimps teach their kids tool tricks",
-      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-      "published": "2026-09-16T04:00:39+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
       "published": "2026-09-16T01:00:00+00:00",
@@ -71,54 +143,6 @@
       "published": "2026-09-15T22:47:07+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-      "published": "2026-09-15T22:26:32+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "published": "2026-09-15T22:24:34+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-      "published": "2026-09-15T20:19:17+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
-      "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
-      "published": "2026-09-15T20:16:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
-      "published": "2026-09-15T19:27:19+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
-      "published": "2026-09-15T16:55:59+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
       "category": "ai"
     },
     {
@@ -168,22 +192,6 @@
       "source": "Schneier on Security",
       "source_id": "schneier",
       "category": "cybersecurity"
-    },
-    {
-      "title": "The contagion of fear",
-      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-      "published": "2026-09-14T21:18:13+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "What blog posts influenced your thinking the most?",
-      "url": "https://simonwillison.net/2026/Sep/14/influences/",
-      "published": "2026-09-14T20:21:48+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
@@ -250,14 +258,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "Token Analysis and Tracking System (TATS)",
-      "url": "https://specterops.io/blog/2026/09/08/token-analysis-and-tracking-system-tats/",
-      "published": "2026-09-08T17:30:00+00:00",
-      "source": "SpecterOps",
-      "source_id": "specterops",
-      "category": "offensive-security"
-    },
-    {
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
       "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
       "published": "2026-08-31T16:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-16T12:42:03.419017+00:00"
+      "last_success": "2026-09-16T18:34:53.340181+00:00"
     }
   ]
 }
