@@ -1,13 +1,45 @@
 {
-  "updated": "2026-09-17T12:41:54.578657+00:00",
+  "updated": "2026-09-17T18:36:11.601893+00:00",
   "items": [
     {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "published": "2026-09-17T11:33:35+00:00",
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "published": "2026-09-17T17:11:34+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "CiliumHound: Graphing Kubernetes Network Policies",
+      "url": "https://specterops.io/blog/2026/09/17/ciliumhound-graphing-kubernetes-network-policies/",
+      "published": "2026-09-17T16:00:00+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "published": "2026-09-17T14:01:11+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "published": "2026-09-17T13:09:09+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "published": "2026-09-17T13:00:55+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
     },
     {
       "title": "How Candidates Could Use AI for Good",
@@ -18,27 +50,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "published": "2026-09-17T09:00:00+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
       "url": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
       "published": "2026-09-17T09:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "published": "2026-09-17T08:24:48+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -162,14 +178,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "published": "2026-09-16T05:00:42+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "published": "2026-09-15T16:00:44+00:00",
@@ -221,14 +229,6 @@
       "title": "Unmasking SCCM Application Execution",
       "url": "https://specterops.io/blog/2026/09/10/unmasking-sccm-application-execution/",
       "published": "2026-09-10T16:00:00+00:00",
-      "source": "SpecterOps",
-      "source_id": "specterops",
-      "category": "offensive-security"
-    },
-    {
-      "title": "Beyond Tier Zero",
-      "url": "https://specterops.io/blog/2026/09/10/beyond-tier-zero/",
-      "published": "2026-09-10T13:26:32+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-17T12:41:54.578657+00:00"
+      "last_success": "2026-09-17T18:36:11.601893+00:00"
     }
   ]
 }
