@@ -1,6 +1,86 @@
 {
-  "updated": "2026-09-16T18:34:53.340181+00:00",
+  "updated": "2026-09-17T01:04:08.337008+00:00",
   "items": [
+    {
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "published": "2026-09-17T00:35:48+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "datasette 1.0a40",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "published": "2026-09-16T23:51:43+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "datasette 0.65.5",
+      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "published": "2026-09-16T23:51:08+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "published": "2026-09-16T22:02:46+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+      "published": "2026-09-16T21:42:09+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+      "published": "2026-09-16T21:26:55+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "published": "2026-09-16T21:08:14+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "published": "2026-09-16T20:39:29+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+      "published": "2026-09-16T20:24:55+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+      "published": "2026-09-16T20:06:17+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
     {
       "title": "Claude Cowork and chat are now one Claude",
       "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
@@ -18,44 +98,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "published": "2026-09-16T17:26:41+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-      "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-      "published": "2026-09-16T17:06:06+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
       "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
       "published": "2026-09-16T16:43:37+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-      "published": "2026-09-16T16:40:11+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Quoting Mustafa Suleyman",
-      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-      "published": "2026-09-16T16:00:54+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Ghostwriter v7.3.0: A Fresh New Look",
@@ -66,14 +114,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "What happens when neutrinos swap identities inside a supernova?",
-      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-      "published": "2026-09-16T15:17:43+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
       "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
       "published": "2026-09-16T15:00:48+00:00",
@@ -82,28 +122,12 @@
       "category": "ai"
     },
     {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "published": "2026-09-16T14:00:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
       "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "published": "2026-09-16T13:00:33+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "published": "2026-09-16T12:16:32+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Fake CAPTCHA Scams",
@@ -127,22 +151,6 @@
       "published": "2026-09-16T05:00:42+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
-      "published": "2026-09-16T01:00:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Gemini Live audio",
-      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "published": "2026-09-15T22:47:07+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
       "category": "ai"
     },
     {
@@ -208,14 +216,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Introducing automatic remediation policies with Cloudflare CASB",
-      "url": "https://blog.cloudflare.com/casb-policies/",
-      "published": "2026-09-11T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "Unmasking SCCM Application Execution",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-16T18:34:53.340181+00:00"
+      "last_success": "2026-09-17T01:04:08.337008+00:00"
     }
   ]
 }
