@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:04:08.337008+00:00",
+  "updated": "2026-09-17T06:47:17.972012+00:00",
   "items": [
     {
       "title": "Anthropic wants Claude to analyze your bank account and financial data",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-17T01:04:08.337008+00:00"
+      "last_success": "2026-09-17T06:47:17.972012+00:00"
     }
   ]
 }
