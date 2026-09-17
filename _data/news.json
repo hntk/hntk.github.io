@@ -1,10 +1,42 @@
 {
-  "updated": "2026-09-17T06:47:17.972012+00:00",
+  "updated": "2026-09-17T12:41:54.578657+00:00",
   "items": [
     {
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "published": "2026-09-17T00:35:48+00:00",
+      "title": "US takes down NightmareStresser DDoS-for-hire platform",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
+      "published": "2026-09-17T11:33:35+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "How Candidates Could Use AI for Good",
+      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
+      "published": "2026-09-17T11:06:31+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+      "published": "2026-09-17T09:00:00+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
+      "url": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
+      "published": "2026-09-17T09:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "published": "2026-09-17T08:24:48+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -56,22 +88,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "published": "2026-09-16T20:39:29+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "published": "2026-09-16T20:24:55+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
@@ -194,25 +210,9 @@
       "category": "offensive-security"
     },
     {
-      "title": "On the NSA’s Supercomputer from the 1960s",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "published": "2026-09-15T10:16:24+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
       "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
       "published": "2026-09-14T16:50:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-      "published": "2026-09-14T11:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-17T06:47:17.972012+00:00"
+      "last_success": "2026-09-17T12:41:54.578657+00:00"
     }
   ]
 }
