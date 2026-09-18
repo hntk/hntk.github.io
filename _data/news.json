@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:03:52.601293+00:00",
+  "updated": "2026-09-18T06:45:33.209237+00:00",
   "items": [
     {
       "title": "Be alert: targeted attacks on prominent Rustaceans",
@@ -16,6 +16,22 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
+    },
+    {
+      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+      "published": "2026-09-17T22:31:28+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "published": "2026-09-17T22:12:58+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
     },
     {
       "title": "New RatHat Android malware uses AI to automate device control",
@@ -40,6 +56,14 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
+    },
+    {
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "published": "2026-09-17T20:24:34+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
     },
     {
       "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
@@ -98,36 +122,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "published": "2026-09-16T22:02:46+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-      "published": "2026-09-16T21:42:09+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
       "published": "2026-09-16T21:26:55+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "published": "2026-09-16T21:08:14+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-18T01:03:52.601293+00:00"
+      "last_success": "2026-09-18T06:45:33.209237+00:00"
     }
   ]
 }
