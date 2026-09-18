@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-18T06:45:33.209237+00:00",
+  "updated": "2026-09-18T12:40:24.423561+00:00",
   "items": [
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "published": "2026-09-18T12:16:32+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Are AIs Still Struggling with CAPTCHAs?",
+      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+      "published": "2026-09-18T11:05:52+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "published": "2026-09-18T11:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "published": "2026-09-18T09:34:33+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "published": "2026-09-18T07:35:31+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "published": "2026-09-18T07:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
     {
       "title": "Be alert: targeted attacks on prominent Rustaceans",
       "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
@@ -32,14 +80,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "published": "2026-09-17T21:50:26+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
@@ -74,22 +114,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "published": "2026-09-17T18:55:12+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "published": "2026-09-17T17:11:34+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "CiliumHound: Graphing Kubernetes Network Policies",
       "url": "https://specterops.io/blog/2026/09/17/ciliumhound-graphing-kubernetes-network-policies/",
       "published": "2026-09-17T16:00:00+00:00",
@@ -119,14 +143,6 @@
       "published": "2026-09-17T09:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-      "published": "2026-09-16T21:26:55+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -202,14 +218,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "published": "2026-09-15T11:01:41+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "1Password's AI patching benchmark is misleading",
       "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
       "published": "2026-09-15T11:00:00+00:00",
@@ -266,14 +274,6 @@
       "category": "ai"
     },
     {
-      "title": "VMs won't contain cyber-capable agents",
-      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-      "published": "2026-08-26T11:00:00+00:00",
-      "source": "Trail of Bits",
-      "source_id": "trail-of-bits",
-      "category": "offensive-security"
-    },
-    {
       "title": "What's in a tag name? JavaScript, apparently",
       "url": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
       "published": "2026-08-25T14:24:32+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-18T06:45:33.209237+00:00"
+      "last_success": "2026-09-18T12:40:24.423561+00:00"
     }
   ]
 }
