@@ -1,6 +1,62 @@
 {
-  "updated": "2026-09-17T18:36:11.601893+00:00",
+  "updated": "2026-09-18T01:03:52.601293+00:00",
   "items": [
+    {
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "published": "2026-09-17T23:59:19+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "How To Write With An LLM",
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+      "published": "2026-09-17T23:37:27+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "published": "2026-09-17T21:50:26+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "published": "2026-09-17T21:23:50+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Self-generated prompt injections in compaction summaries",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "published": "2026-09-17T20:57:55+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+      "published": "2026-09-17T19:15:38+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "published": "2026-09-17T18:55:12+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
       "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
@@ -16,22 +72,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "published": "2026-09-17T14:01:11+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "published": "2026-09-17T13:09:09+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
@@ -56,22 +96,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "datasette 1.0a40",
-      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
-      "published": "2026-09-16T23:51:43+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "datasette 0.65.5",
-      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
-      "published": "2026-09-16T23:51:08+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
@@ -112,30 +136,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Claude Cowork and chat are now one Claude",
-      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "published": "2026-09-16T18:09:49+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Fighting Your Dragons Through Tough Tech Times",
-      "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-      "published": "2026-09-16T18:00:54+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
-      "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-      "published": "2026-09-16T16:43:37+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Ghostwriter v7.3.0: A Fresh New Look",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-17T18:36:11.601893+00:00"
+      "last_success": "2026-09-18T01:03:52.601293+00:00"
     }
   ]
 }
