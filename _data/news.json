@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-19T01:01:53.559341+00:00",
+  "updated": "2026-09-19T06:41:53.041915+00:00",
   "items": [
+    {
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+      "published": "2026-09-19T02:22:54+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
     {
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
       "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
@@ -162,14 +170,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
-      "url": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
-      "published": "2026-09-17T09:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
       "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
       "published": "2026-09-16T20:06:17+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-19T01:01:53.559341+00:00"
+      "last_success": "2026-09-19T06:41:53.041915+00:00"
     }
   ]
 }
