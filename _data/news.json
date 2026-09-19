@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-19T06:41:53.041915+00:00",
+  "updated": "2026-09-19T12:37:01.043266+00:00",
   "items": [
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "published": "2026-09-19T11:38:20+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "published": "2026-09-19T11:10:43+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "published": "2026-09-19T11:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Rings around a tiny body have changed over the past decade",
+      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "published": "2026-09-19T10:00:06+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "6 Best VPN Services (2026), Tested and Reviewed",
+      "url": "https://www.wired.com/gallery/best-vpn/",
+      "published": "2026-09-19T09:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
     {
       "title": "Flock Offers Employees Buyouts as Customers Flee",
       "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
@@ -58,28 +98,12 @@
       "category": "ai"
     },
     {
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-      "published": "2026-09-18T19:20:50+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Quoting Thariq Shihipar",
       "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
       "published": "2026-09-18T19:09:27+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-      "published": "2026-09-18T17:57:41+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Saving another 100TB of RAM with math (and Rust)",
@@ -98,35 +122,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-      "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "published": "2026-09-18T16:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
       "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
       "published": "2026-09-18T15:19:06+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "published": "2026-09-18T14:00:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-      "url": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
-      "published": "2026-09-18T13:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
       "category": "cybersecurity"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-19T06:41:53.041915+00:00"
+      "last_success": "2026-09-19T12:37:01.043266+00:00"
     }
   ]
 }
