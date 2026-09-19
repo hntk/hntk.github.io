@@ -1,6 +1,78 @@
 {
-  "updated": "2026-09-18T18:34:07.266704+00:00",
+  "updated": "2026-09-19T01:01:53.559341+00:00",
   "items": [
+    {
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "published": "2026-09-18T23:57:57+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "published": "2026-09-18T20:26:33+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "published": "2026-09-18T20:24:51+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "published": "2026-09-18T19:26:47+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "published": "2026-09-18T19:23:48+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Note on 18th September 2026",
+      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+      "published": "2026-09-18T19:21:32+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "published": "2026-09-18T19:20:50+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Quoting Thariq Shihipar",
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "published": "2026-09-18T19:09:27+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+      "published": "2026-09-18T17:57:41+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "Saving another 100TB of RAM with math (and Rust)",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
@@ -34,36 +106,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Creative Spirit of Who Framed Roger Rabbit",
-      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-      "published": "2026-09-18T14:36:41+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Secure enterprise sharing with access reviews for Microsoft 365",
       "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
       "published": "2026-09-18T14:00:10+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Meet the winner of Nikon's Small World in Motion video contest",
-      "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-      "published": "2026-09-18T13:56:57+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI",
-      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "published": "2026-09-18T13:30:12+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
@@ -82,60 +130,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-      "published": "2026-09-18T11:00:11+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Auditing in the age of (good enough) AI",
       "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
       "published": "2026-09-18T11:00:00+00:00",
       "source": "Trail of Bits",
       "source_id": "trail-of-bits",
       "category": "offensive-security"
-    },
-    {
-      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-      "published": "2026-09-18T07:00:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-      "published": "2026-09-17T23:59:19+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "How To Write With An LLM",
-      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-      "published": "2026-09-17T23:37:27+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "published": "2026-09-17T21:23:50+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-      "published": "2026-09-17T19:15:38+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "CiliumHound: Graphing Kubernetes Network Policies",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-18T18:34:07.266704+00:00"
+      "last_success": "2026-09-19T01:01:53.559341+00:00"
     }
   ]
 }
