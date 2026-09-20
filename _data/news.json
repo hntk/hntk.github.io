@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-19T18:31:13.538794+00:00",
+  "updated": "2026-09-20T01:09:01.332168+00:00",
   "items": [
+    {
+      "title": "datasette-auth-github 1.0",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "published": "2026-09-19T19:52:02+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "California Sea Lion, Brandt's Cormorant",
       "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
@@ -112,14 +120,6 @@
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Note on 18th September 2026",
-      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-      "published": "2026-09-18T19:21:32+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Saving another 100TB of RAM with math (and Rust)",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-19T18:31:13.538794+00:00"
+      "last_success": "2026-09-20T01:09:01.332168+00:00"
     }
   ]
 }
