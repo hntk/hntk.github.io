@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-20T12:37:31.695957+00:00",
+  "updated": "2026-09-20T18:32:25.436702+00:00",
   "items": [
+    {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "published": "2026-09-20T14:11:21+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
       "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
@@ -53,14 +61,6 @@
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "published": "2026-09-19T14:56:31+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "published": "2026-09-19T14:05:15+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-20T12:37:31.695957+00:00"
+      "last_success": "2026-09-20T18:32:25.436702+00:00"
     }
   ]
 }
