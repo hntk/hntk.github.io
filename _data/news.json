@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-20T18:32:25.436702+00:00",
+  "updated": "2026-09-21T01:08:32.556592+00:00",
   "items": [
+    {
+      "title": "Quoting voxium",
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "published": "2026-09-20T21:06:43+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "llm-keys-ui 0.1",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "published": "2026-09-20T19:22:19+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Malicious npm packages evade install-script defenses at runtime",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
@@ -42,17 +58,9 @@
       "category": "tech-architecture"
     },
     {
-      "title": "datasette-auth-github 1.0",
-      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-      "published": "2026-09-19T19:52:02+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "California Sea Lion, Brandt's Cormorant",
-      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-      "published": "2026-09-19T17:10:08+00:00",
+      "title": "datasette-explain 0.2.2",
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "published": "2026-09-20T00:22:04+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
@@ -88,14 +96,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "published": "2026-09-18T23:57:57+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-20T18:32:25.436702+00:00"
+      "last_success": "2026-09-21T01:08:32.556592+00:00"
     }
   ]
 }
