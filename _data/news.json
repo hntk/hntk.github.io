@@ -1,13 +1,117 @@
 {
-  "updated": "2026-09-21T12:39:54.937763+00:00",
+  "updated": "2026-09-21T18:36:11.714220+00:00",
   "items": [
     {
-      "title": "Microsoft: September updates break File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "published": "2026-09-21T11:45:54+00:00",
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "published": "2026-09-21T18:23:11+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "published": "2026-09-21T18:00:07+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+      "published": "2026-09-21T17:54:49+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "published": "2026-09-21T16:57:26+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+      "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "published": "2026-09-21T16:40:26+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "published": "2026-09-21T16:15:26+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "published": "2026-09-21T16:00:46+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "published": "2026-09-21T16:00:10+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Google fined €403 million over location data privacy violations",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "published": "2026-09-21T15:41:22+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "published": "2026-09-21T15:30:19+00:00",
+      "source": "Microsoft Research",
+      "source_id": "microsoft-research",
+      "category": "ai"
+    },
+    {
+      "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
+      "url": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
+      "published": "2026-09-21T14:47:19+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Reverse-Engineering Flock Cameras",
+      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
+      "published": "2026-09-21T14:37:45+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "published": "2026-09-21T13:44:34+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "published": "2026-09-21T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
     },
     {
       "title": "SAML: A fractal of bad design",
@@ -26,11 +130,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "5 Companies Using NVIDIA AI for Clean Energy",
-      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-      "published": "2026-09-21T10:00:35+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "published": "2026-09-21T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -48,46 +152,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "published": "2026-09-20T14:11:21+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "published": "2026-09-20T12:00:00+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "published": "2026-09-20T11:07:00+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Don't call it an SUV: The Ferrari Purosangue review",
-      "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
-      "published": "2026-09-20T10:00:02+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "T. rex teeth indicate it ran as warm as an elephant",
-      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
-      "published": "2026-09-20T09:00:11+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "datasette-explain 0.2.2",
@@ -130,14 +194,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
-      "published": "2026-09-18T19:23:48+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Saving another 100TB of RAM with math (and Rust)",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
       "published": "2026-09-18T17:23:58+00:00",
@@ -170,14 +226,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
-      "published": "2026-09-17T13:00:55+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "How Candidates Could Use AI for Good",
       "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
       "published": "2026-09-17T11:06:31+00:00",
@@ -202,36 +250,12 @@
       "category": "offensive-security"
     },
     {
-      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-      "published": "2026-09-16T15:00:48+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "published": "2026-09-16T11:25:26+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "published": "2026-09-15T16:00:44+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "published": "2026-09-15T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "1Password's AI patching benchmark is misleading",
@@ -250,22 +274,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "published": "2026-09-10T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "published": "2026-09-10T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
       "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
       "published": "2026-08-31T16:00:00+00:00",
@@ -280,14 +288,6 @@
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "Broadening access to Skala creates a faster path to predictive DFT",
-      "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-      "published": "2026-08-20T16:00:00+00:00",
-      "source": "Microsoft Research",
-      "source_id": "microsoft-research",
-      "category": "ai"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-21T12:39:54.937763+00:00"
+      "last_success": "2026-09-21T18:36:11.714220+00:00"
     }
   ]
 }
