@@ -1,6 +1,86 @@
 {
-  "updated": "2026-09-21T18:36:11.714220+00:00",
+  "updated": "2026-09-22T01:03:24.684274+00:00",
   "items": [
+    {
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "published": "2026-09-21T23:09:20+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Cloudflare Python Workers are now generally available",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "published": "2026-09-21T22:25:44+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "published": "2026-09-21T22:24:38+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "url": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "published": "2026-09-21T21:39:59+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "published": "2026-09-21T21:18:49+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+      "published": "2026-09-21T21:07:05+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+      "url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+      "published": "2026-09-21T20:55:36+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "published": "2026-09-21T20:12:17+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "published": "2026-09-21T20:07:56+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "published": "2026-09-21T19:11:26+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
     {
       "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
@@ -16,38 +96,6 @@
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "published": "2026-09-21T17:54:49+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "published": "2026-09-21T16:57:26+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Russel Vought will reportedly be given veto power over all NIH grants",
-      "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
-      "published": "2026-09-21T16:40:26+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
-      "published": "2026-09-21T16:15:26+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
@@ -66,28 +114,12 @@
       "category": "ai"
     },
     {
-      "title": "Google fined €403 million over location data privacy violations",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "published": "2026-09-21T15:41:22+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
       "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
       "published": "2026-09-21T15:30:19+00:00",
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
       "category": "ai"
-    },
-    {
-      "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
-      "url": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
-      "published": "2026-09-21T14:47:19+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Reverse-Engineering Flock Cameras",
@@ -146,22 +178,6 @@
       "category": "ai"
     },
     {
-      "title": "llm-keys-ui 0.1",
-      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "published": "2026-09-20T19:22:19+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "datasette-explain 0.2.2",
-      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-      "published": "2026-09-20T00:22:04+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
       "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
       "published": "2026-09-19T11:00:00+00:00",
@@ -175,22 +191,6 @@
       "published": "2026-09-19T09:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
-      "published": "2026-09-18T20:24:51+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-      "published": "2026-09-18T19:26:47+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-21T18:36:11.714220+00:00"
+      "last_success": "2026-09-22T01:03:24.684274+00:00"
     }
   ]
 }
