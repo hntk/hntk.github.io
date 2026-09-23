@@ -1,13 +1,85 @@
 {
-  "updated": "2026-09-22T18:36:17.921640+00:00",
+  "updated": "2026-09-23T01:02:31.801418+00:00",
   "items": [
     {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "published": "2026-09-22T18:04:39+00:00",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "published": "2026-09-22T23:46:41+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "published": "2026-09-22T21:45:45+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+      "published": "2026-09-22T21:42:14+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "published": "2026-09-22T21:40:37+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "published": "2026-09-22T21:25:18+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+      "published": "2026-09-22T21:12:37+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+      "published": "2026-09-22T20:38:30+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "published": "2026-09-22T20:35:24+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "published": "2026-09-22T20:02:02+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "llm 0.36",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "published": "2026-09-22T18:48:37+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "Quoting @therealcornpop",
@@ -26,68 +98,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
-      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-      "published": "2026-09-22T17:30:07+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "published": "2026-09-22T17:17:41+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
-      "url": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-      "published": "2026-09-22T17:12:26+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "published": "2026-09-22T17:06:16+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "published": "2026-09-22T16:55:40+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "published": "2026-09-22T16:32:47+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Introducing Ghostwriter Skills",
       "url": "https://specterops.io/blog/2026/09/22/introducing-ghostwriter-skills/",
       "published": "2026-09-22T16:08:57+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "llm-typesafe 0.1a0",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "published": "2026-09-22T15:54:16+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "We just shipped support for the ugliest part of HTTP: Vary",
@@ -112,14 +128,6 @@
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-      "published": "2026-09-22T12:00:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "GPT-6 Astra Breaks an Old Enigma Message",
@@ -167,14 +175,6 @@
       "published": "2026-09-22T00:00:00+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-      "url": "https://simonwillison.net/2026/Sep/21/jev/",
-      "published": "2026-09-21T23:09:20+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
       "category": "ai"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-22T18:36:17.921640+00:00"
+      "last_success": "2026-09-23T01:02:31.801418+00:00"
     }
   ]
 }
