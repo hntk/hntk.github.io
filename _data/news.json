@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-23T01:02:31.801418+00:00",
+  "updated": "2026-09-23T06:47:11.808724+00:00",
   "items": [
+    {
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "published": "2026-09-23T02:53:19+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+      "published": "2026-09-23T02:30:22+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
     {
       "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
       "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
@@ -77,14 +93,6 @@
       "title": "llm 0.36",
       "url": "https://simonwillison.net/2026/Sep/22/llm/",
       "published": "2026-09-22T18:48:37+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Quoting @therealcornpop",
-      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-      "published": "2026-09-22T18:03:21+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
@@ -181,14 +189,6 @@
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
       "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "published": "2026-09-21T18:00:07+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "published": "2026-09-21T16:00:46+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-23T01:02:31.801418+00:00"
+      "last_success": "2026-09-23T06:47:11.808724+00:00"
     }
   ]
 }
