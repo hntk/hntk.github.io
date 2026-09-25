@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-25T06:48:31.072788+00:00",
+  "updated": "2026-09-25T12:42:38.585550+00:00",
   "items": [
+    {
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "published": "2026-09-25T11:35:14+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "On Anthropic’s AI Misuse Report",
+      "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
+      "published": "2026-09-25T11:07:22+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Don't let TEEs break your MPC",
+      "url": "https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc/",
+      "published": "2026-09-25T11:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "published": "2026-09-25T10:30:38+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "published": "2026-09-25T08:33:44+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
+      "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+      "published": "2026-09-25T07:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
     {
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
       "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
@@ -26,27 +74,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "published": "2026-09-24T20:53:35+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
       "published": "2026-09-24T20:32:50+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "published": "2026-09-24T20:10:48+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -74,14 +106,6 @@
       "category": "ai"
     },
     {
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "published": "2026-09-24T17:47:44+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "AI for Offensive Security: What Works, What Does Not, and How to Adopt It",
       "url": "https://specterops.io/blog/2026/09/24/ai-for-offensive-security/",
       "published": "2026-09-24T16:00:00+00:00",
@@ -96,14 +120,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "3 Cyber Threats That Defined the Summer of 2026",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "published": "2026-09-24T14:44:12+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
@@ -226,14 +242,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "published": "2026-09-22T11:02:45+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
       "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
       "published": "2026-09-22T10:00:00+00:00",
@@ -280,14 +288,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "1Password's AI patching benchmark is misleading",
-      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
-      "published": "2026-09-15T11:00:00+00:00",
-      "source": "Trail of Bits",
-      "source_id": "trail-of-bits",
-      "category": "offensive-security"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-25T06:48:31.072788+00:00"
+      "last_success": "2026-09-25T12:42:38.585550+00:00"
     }
   ]
 }
