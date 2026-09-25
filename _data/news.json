@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T01:04:07.515328+00:00",
+  "updated": "2026-09-25T06:48:31.072788+00:00",
   "items": [
     {
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-25T01:04:07.515328+00:00"
+      "last_success": "2026-09-25T06:48:31.072788+00:00"
     }
   ]
 }
