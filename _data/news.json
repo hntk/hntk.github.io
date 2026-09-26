@@ -1,10 +1,26 @@
 {
-  "updated": "2026-09-26T12:38:29.865200+00:00",
+  "updated": "2026-09-26T18:34:50.654450+00:00",
   "items": [
     {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "published": "2026-09-26T12:28:41+00:00",
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "published": "2026-09-26T16:26:58+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "published": "2026-09-26T15:50:38+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "published": "2026-09-26T14:19:46+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -18,6 +34,14 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+      "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+      "published": "2026-09-26T10:45:09+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
       "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
       "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
       "published": "2026-09-25T23:00:26+00:00",
@@ -26,36 +50,12 @@
       "category": "tech-architecture"
     },
     {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "published": "2026-09-25T21:41:07+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
       "published": "2026-09-25T21:36:20+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "published": "2026-09-25T21:10:51+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "published": "2026-09-25T20:57:55+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-26T12:38:29.865200+00:00"
+      "last_success": "2026-09-26T18:34:50.654450+00:00"
     }
   ]
 }
