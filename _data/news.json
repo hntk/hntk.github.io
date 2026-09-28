@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-28T07:03:30.477930+00:00",
+  "updated": "2026-09-28T12:47:59.023073+00:00",
   "items": [
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "published": "2026-09-28T11:32:19+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Attack Against RSA",
+      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
+      "published": "2026-09-28T11:02:58+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "published": "2026-09-28T11:00:09+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "published": "2026-09-28T09:44:05+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "published": "2026-09-28T09:25:29+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "published": "2026-09-28T07:30:15+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
@@ -26,14 +74,6 @@
       "category": "ai"
     },
     {
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "published": "2026-09-27T23:40:39+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "S3 Is the Future, S3 Is the Past",
       "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
       "published": "2026-09-27T23:09:19+00:00",
@@ -48,14 +88,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "published": "2026-09-27T16:02:37+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "How the Smithsonian became the latest front in Trump’s culture war",
@@ -77,14 +109,6 @@
       "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
       "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
       "published": "2026-09-26T10:45:09+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-      "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-      "published": "2026-09-25T23:00:26+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -226,36 +250,12 @@
       "category": "offensive-security"
     },
     {
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
-      "published": "2026-09-23T12:54:58+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Research on Models Engaging in Genie-Like Behavior",
-      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
-      "published": "2026-09-23T11:03:36+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Introducing Ghostwriter Skills",
       "url": "https://specterops.io/blog/2026/09/22/introducing-ghostwriter-skills/",
       "published": "2026-09-22T16:08:57+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "published": "2026-09-22T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
     },
     {
       "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-28T07:03:30.477930+00:00"
+      "last_success": "2026-09-28T12:47:59.023073+00:00"
     }
   ]
 }
