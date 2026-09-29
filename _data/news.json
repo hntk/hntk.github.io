@@ -1,6 +1,38 @@
 {
-  "updated": "2026-09-29T06:50:45.869862+00:00",
+  "updated": "2026-09-29T12:46:52.779241+00:00",
   "items": [
+    {
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "published": "2026-09-29T11:41:53+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
+      "published": "2026-09-29T11:02:19+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "published": "2026-09-29T09:04:06+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "published": "2026-09-29T07:33:12+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
       "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
@@ -50,35 +82,11 @@
       "category": "ai"
     },
     {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "published": "2026-09-28T20:56:47+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "published": "2026-09-28T20:31:16+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
       "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
       "published": "2026-09-28T20:23:58+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "published": "2026-09-28T19:49:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -98,17 +106,17 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
-      "url": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
-      "published": "2026-09-28T14:51:57+00:00",
+      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "published": "2026-09-28T15:50:00+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
     },
     {
-      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-      "published": "2026-09-28T14:50:37+00:00",
+      "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+      "url": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
+      "published": "2026-09-28T14:51:57+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
@@ -210,14 +218,6 @@
       "category": "ai"
     },
     {
-      "title": "Malicious npm Packages That Evade Defenses",
-      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-      "published": "2026-09-24T11:07:42+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
       "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "published": "2026-09-24T10:46:56+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-29T06:50:45.869862+00:00"
+      "last_success": "2026-09-29T12:46:52.779241+00:00"
     }
   ]
 }
