@@ -1,37 +1,93 @@
 {
-  "updated": "2026-09-29T18:39:37.780928+00:00",
+  "updated": "2026-09-30T01:11:40.223732+00:00",
   "items": [
     {
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "published": "2026-09-29T18:37:12+00:00",
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "published": "2026-09-30T00:40:57+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "published": "2026-09-29T18:09:39+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "published": "2026-09-29T17:37:40+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
-      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-      "published": "2026-09-29T17:29:14+00:00",
+      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+      "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+      "published": "2026-09-29T22:30:37+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
+    },
+    {
+      "title": "Quoting Anthropic Frontier Red Team",
+      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+      "published": "2026-09-29T22:20:28+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Protests against OpenAI get increasingly creative",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "published": "2026-09-29T21:52:58+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "published": "2026-09-29T21:31:29+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "published": "2026-09-29T21:30:08+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "published": "2026-09-29T21:14:49+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "published": "2026-09-29T21:08:42+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "published": "2026-09-29T20:59:39+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "published": "2026-09-29T19:05:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+      "published": "2026-09-29T18:27:48+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
@@ -56,38 +112,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
-      "url": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
-      "published": "2026-09-29T15:12:39+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "This study looks at how and with whom connected cars share your data",
-      "url": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
-      "published": "2026-09-29T14:49:44+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Less protein for maggots means longer lives for fruit flies",
-      "url": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-      "published": "2026-09-29T14:39:25+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-      "published": "2026-09-29T14:19:43+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Introducing Quine: An AI research system designed for the complexity of biology",
@@ -138,27 +162,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Claude Sonnet 5.5",
-      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-      "published": "2026-09-28T22:07:38+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
       "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
       "published": "2026-09-28T21:00:00+00:00",
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
-      "category": "ai"
-    },
-    {
-      "title": "Quoting @joedaroo",
-      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-      "published": "2026-09-28T19:11:42+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
       "category": "ai"
     },
     {
@@ -234,14 +242,6 @@
       "category": "ai"
     },
     {
-      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-      "published": "2026-09-24T10:46:56+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Offloaded inference for real-world physical AI robotics",
       "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
       "published": "2026-09-23T16:01:36+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-09-29T18:39:37.780928+00:00"
+      "last_success": "2026-09-30T01:11:40.223732+00:00"
     }
   ]
 }
