@@ -1,13 +1,117 @@
 {
-  "updated": "2026-10-01T12:46:14.237388+00:00",
+  "updated": "2026-10-01T18:40:05.834268+00:00",
   "items": [
     {
-      "title": "Microsoft enables Windows settings backup by default for orgs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-      "published": "2026-10-01T11:14:28+00:00",
+      "title": "Experience What It’s Like to Travel in the Occupied West Bank",
+      "url": "https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/",
+      "published": "2026-10-01T18:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "With most information hidden, the game Stratego",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "published": "2026-10-01T16:28:04+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "published": "2026-10-01T15:34:02+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "As US relations fray, Canada gets serious about its own launch industry",
+      "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
+      "published": "2026-10-01T15:30:49+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "published": "2026-10-01T15:01:43+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "published": "2026-10-01T14:25:14+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "published": "2026-10-01T14:01:11+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "published": "2026-10-01T13:51:08+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "One year later: Sovereign AI and the fight for choice",
+      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "published": "2026-10-01T13:04:19+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Fall Into 25 New Games on GeForce NOW This October",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+      "published": "2026-10-01T13:00:54+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+      "published": "2026-10-01T13:00:49+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
+      "published": "2026-10-01T13:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Introducing Workers KV Instant — powered by Quicksilver",
+      "url": "https://blog.cloudflare.com/workers-kv-instant/",
+      "published": "2026-10-01T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "PS5 emulation is suddenly making big strides on PC",
+      "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+      "published": "2026-10-01T11:30:41+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
     },
     {
       "title": "Connected Cars Are a Surveillance Platform",
@@ -18,27 +122,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "published": "2026-10-01T09:44:28+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "The Secrets of the US Spyware King",
       "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
       "published": "2026-10-01T09:30:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "published": "2026-10-01T07:33:57+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -58,22 +146,6 @@
       "category": "ai"
     },
     {
-      "title": "Dinosaur-killing impact crater might have been teeming with life",
-      "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-      "published": "2026-09-30T21:54:12+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
-      "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
-      "published": "2026-09-30T21:37:54+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
       "published": "2026-09-30T21:25:47+00:00",
@@ -82,25 +154,9 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Returning from vacation? The government can search your phone without a warrant.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "published": "2026-09-30T21:19:56+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
       "url": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
       "published": "2026-09-30T20:51:15+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
-      "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
-      "published": "2026-09-30T18:56:56+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
@@ -120,38 +176,6 @@
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
       "category": "ai"
-    },
-    {
-      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-      "published": "2026-09-30T15:00:00+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "Cloudflare Impact reaches $100 million in donations",
-      "url": "https://blog.cloudflare.com/100-million-donations/",
-      "published": "2026-09-30T13:01:55+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Cut your AI spend with AI Gateway's Auto Router",
-      "url": "https://blog.cloudflare.com/auto-router/",
-      "published": "2026-09-30T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Detect and send production issues straight to your agent",
-      "url": "https://blog.cloudflare.com/real-time-issue-detection/",
-      "published": "2026-09-30T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "Introducing Adversary Intelligence: LLM Tradecraft",
@@ -194,14 +218,6 @@
       "category": "ai"
     },
     {
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "published": "2026-09-29T19:05:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "published": "2026-09-29T15:30:38+00:00",
@@ -215,14 +231,6 @@
       "published": "2026-09-29T14:00:02+00:00",
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
-      "category": "ai"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "published": "2026-09-29T13:07:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -258,14 +266,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-      "published": "2026-09-24T14:00:50+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
       "url": "https://portswigger.net/research/http3-in-burp-suite",
       "published": "2026-09-23T14:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-01T12:46:14.237388+00:00"
+      "last_success": "2026-10-01T18:40:05.834268+00:00"
     }
   ]
 }
