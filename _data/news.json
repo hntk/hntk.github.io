@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-01T01:18:55.706638+00:00",
+  "updated": "2026-10-01T06:51:59.025600+00:00",
   "items": [
+    {
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "published": "2026-10-01T06:29:01+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "He Built This City",
       "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
@@ -178,14 +186,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-      "published": "2026-09-29T18:27:48+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "published": "2026-09-29T15:30:38+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-01T01:18:55.706638+00:00"
+      "last_success": "2026-10-01T06:51:59.025600+00:00"
     }
   ]
 }
