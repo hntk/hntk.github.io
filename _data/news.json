@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-02T01:09:05.180558+00:00",
+  "updated": "2026-10-02T06:50:23.860964+00:00",
   "items": [
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published": "2026-10-02T04:01:31+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
     {
       "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
       "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
@@ -218,14 +226,6 @@
       "category": "ai"
     },
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "published": "2026-09-29T15:30:38+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "Introducing Quine: An AI research system designed for the complexity of biology",
       "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
       "published": "2026-09-29T14:00:02+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-02T01:09:05.180558+00:00"
+      "last_success": "2026-10-02T06:50:23.860964+00:00"
     }
   ]
 }
