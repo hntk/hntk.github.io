@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-01T18:40:05.834268+00:00",
+  "updated": "2026-10-02T01:09:05.180558+00:00",
   "items": [
+    {
+      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "published": "2026-10-01T23:44:13+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "published": "2026-10-01T22:42:49+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Venus' mysterious haze is actually cosmic dust",
+      "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+      "published": "2026-10-01T22:27:04+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+      "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+      "published": "2026-10-01T22:07:33+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "published": "2026-10-01T21:37:50+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+      "published": "2026-10-01T20:52:50+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+      "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+      "published": "2026-10-01T20:28:45+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "published": "2026-10-01T19:32:47+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Experience What It’s Like to Travel in the Occupied West Bank",
       "url": "https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/",
@@ -8,14 +72,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "With most information hidden, the game Stratego",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "published": "2026-10-01T16:28:04+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
@@ -26,44 +82,12 @@
       "category": "tech-architecture"
     },
     {
-      "title": "As US relations fray, Canada gets serious about its own launch industry",
-      "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-      "published": "2026-10-01T15:30:49+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
       "url": "https://huggingface.co/blog/allenai/olmocore3",
       "published": "2026-10-01T15:01:43+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "published": "2026-10-01T14:25:14+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "published": "2026-10-01T14:01:11+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "published": "2026-10-01T13:51:08+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "One year later: Sovereign AI and the fight for choice",
@@ -106,14 +130,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "PS5 emulation is suddenly making big strides on PC",
-      "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-      "published": "2026-10-01T11:30:41+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Connected Cars Are a Surveillance Platform",
       "url": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
       "published": "2026-10-01T11:06:14+00:00",
@@ -152,22 +168,6 @@
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
-      "url": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
-      "published": "2026-09-30T20:51:15+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-      "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-      "published": "2026-09-30T17:00:21+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
     },
     {
       "title": "Forecasting space weather risks on power grids",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-01T18:40:05.834268+00:00"
+      "last_success": "2026-10-02T01:09:05.180558+00:00"
     }
   ]
 }
