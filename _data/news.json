@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-03T01:06:02.355245+00:00",
+  "updated": "2026-10-03T06:55:40.034550+00:00",
   "items": [
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "published": "2026-10-02T23:03:16+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "Someone got Doom in an SQL database",
       "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
@@ -24,14 +32,6 @@
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-      "published": "2026-10-02T20:07:59+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-03T01:06:02.355245+00:00"
+      "last_success": "2026-10-03T06:55:40.034550+00:00"
     }
   ]
 }
