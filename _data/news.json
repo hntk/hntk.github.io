@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-02T18:39:05.314830+00:00",
+  "updated": "2026-10-03T01:06:02.355245+00:00",
   "items": [
+    {
+      "title": "Someone got Doom in an SQL database",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "published": "2026-10-02T21:19:05+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "published": "2026-10-02T20:30:27+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "published": "2026-10-02T20:18:37+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+      "published": "2026-10-02T20:07:59+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
+      "url": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
+      "published": "2026-10-02T19:52:36+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Frontline Education breach exposes school district employee data",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "published": "2026-10-02T19:01:40+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
       "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
@@ -8,30 +56,6 @@
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Research roundup: 6 cool science stories we almost missed",
-      "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
-      "published": "2026-10-02T18:17:27+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "US military ends long-running program to spot nuclear missile launches",
-      "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
-      "published": "2026-10-02T17:32:14+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "How I kept cool with NYC's free battery program for window AC units",
-      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
-      "published": "2026-10-02T17:20:21+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
@@ -64,22 +88,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
-      "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-      "published": "2026-10-02T16:01:22+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-      "published": "2026-10-02T15:20:53+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
@@ -186,14 +194,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Secrets of the US Spyware King",
-      "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
-      "published": "2026-10-01T09:30:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Quoting Matthew Green",
       "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
       "published": "2026-10-01T06:29:01+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-02T18:39:05.314830+00:00"
+      "last_success": "2026-10-03T01:06:02.355245+00:00"
     }
   ]
 }
