@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T08:27:56.726279+00:00",
+  "updated": "2026-10-04T14:19:23.369258+00:00",
   "items": [
+    {
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "published": "2026-10-04T11:05:53+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "published": "2026-10-04T10:53:21+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "We're going to need default hard budget caps on pretty much everything",
       "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
@@ -50,14 +66,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "published": "2026-10-03T14:35:20+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "published": "2026-10-03T12:00:00+00:00",
@@ -69,14 +77,6 @@
       "title": "The dawn of the age of the exoskeleton",
       "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
       "published": "2026-10-03T11:15:33+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "published": "2026-10-02T23:03:16+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-04T08:27:56.726279+00:00"
+      "last_success": "2026-10-04T14:19:23.369258+00:00"
     }
   ]
 }
