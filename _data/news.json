@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-04T19:32:38.412047+00:00",
+  "updated": "2026-10-05T01:14:41.500000+00:00",
   "items": [
+    {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "published": "2026-10-04T21:58:01+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
       "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
@@ -66,14 +74,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "published": "2026-10-03T19:09:38+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "published": "2026-10-03T12:00:00+00:00",
@@ -104,6 +104,14 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
+    },
+    {
+      "title": "8 major updates to Cloudflare Observability",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "published": "2026-10-02T18:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
     },
     {
       "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
@@ -160,14 +168,6 @@
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "8 major updates to Cloudflare Observability",
-      "url": "https://blog.cloudflare.com/one-observability-platform/",
-      "published": "2026-10-02T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-04T19:32:38.412047+00:00"
+      "last_success": "2026-10-05T01:14:41.500000+00:00"
     }
   ]
 }
