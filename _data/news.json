@@ -1,6 +1,62 @@
 {
-  "updated": "2026-10-05T18:41:15.078985+00:00",
+  "updated": "2026-10-06T01:08:48.153621+00:00",
   "items": [
+    {
+      "title": "Quoting Felix Rieseberg",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "published": "2026-10-05T23:56:47+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "published": "2026-10-05T22:46:33+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "published": "2026-10-05T22:26:35+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "published": "2026-10-05T21:25:08+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+      "published": "2026-10-05T20:47:48+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "published": "2026-10-05T20:31:12+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "published": "2026-10-05T20:20:05+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
       "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
@@ -8,14 +64,6 @@
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
-    },
-    {
-      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
-      "published": "2026-10-05T16:09:07+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
@@ -26,44 +74,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "published": "2026-10-05T15:21:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-      "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-      "published": "2026-10-05T15:12:17+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Smashing the token limit with overlapping fragments",
       "url": "https://portswigger.net/research/smashing-the-token-limit",
       "published": "2026-10-05T15:04:55+00:00",
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "published": "2026-10-05T14:53:06+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI glasses face their first major government crackdown",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "published": "2026-10-05T13:39:30+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
@@ -130,27 +146,11 @@
       "category": "ai"
     },
     {
-      "title": "September sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-      "published": "2026-10-03T22:00:31+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "published": "2026-10-03T12:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
-      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-      "published": "2026-10-02T20:18:37+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-05T18:41:15.078985+00:00"
+      "last_success": "2026-10-06T01:08:48.153621+00:00"
     }
   ]
 }
