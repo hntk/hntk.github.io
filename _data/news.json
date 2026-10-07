@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-07T12:47:53.270313+00:00",
+  "updated": "2026-10-07T18:41:00.692080+00:00",
   "items": [
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "published": "2026-10-07T16:54:33+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+      "url": "https://blog.cloudflare.com/agentic-security-operations/",
+      "published": "2026-10-07T16:30:36+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "published": "2026-10-07T16:00:00+00:00",
+      "source": "Microsoft Research",
+      "source_id": "microsoft-research",
+      "category": "ai"
+    },
+    {
+      "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
+      "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
+      "published": "2026-10-07T15:48:01+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Microsoft Outlook to block MSIX attachments starting November",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+      "published": "2026-10-07T15:44:22+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
+      "published": "2026-10-07T15:19:05+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "published": "2026-10-07T15:04:08+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "published": "2026-10-07T14:53:51+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "published": "2026-10-07T14:12:37+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "published": "2026-10-07T14:01:11+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
@@ -10,35 +90,11 @@
       "category": "ai"
     },
     {
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "published": "2026-10-07T11:37:07+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Apple’s Verified Photography System",
       "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
       "published": "2026-10-07T11:07:36+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "published": "2026-10-07T10:35:15+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "published": "2026-10-07T10:27:52+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -58,44 +114,12 @@
       "category": "ai"
     },
     {
-      "title": "Quoting Victoria Kim",
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
-      "published": "2026-10-06T23:58:56+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-      "published": "2026-10-06T21:31:10+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "published": "2026-10-06T20:50:32+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
       "published": "2026-10-06T20:32:58+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-      "published": "2026-10-06T20:32:12+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Critical Healthcare Systems Aren't Quantum-Ready",
@@ -154,14 +178,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "published": "2026-10-06T06:44:39+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "Smashing the token limit with overlapping fragments",
       "url": "https://portswigger.net/research/smashing-the-token-limit",
       "published": "2026-10-05T15:04:55+00:00",
@@ -180,14 +196,6 @@
     {
       "title": "Everything we launched during Birthday Week 2026",
       "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
-      "published": "2026-10-05T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "One year later: the power of 1.1.1.1 interns",
-      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
       "published": "2026-10-05T13:00:00+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
@@ -266,14 +274,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-      "published": "2026-09-29T14:00:02+00:00",
-      "source": "Microsoft Research",
-      "source_id": "microsoft-research",
-      "category": "ai"
-    },
-    {
       "title": "Don't let TEEs break your MPC",
       "url": "https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc/",
       "published": "2026-09-25T11:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-07T12:47:53.270313+00:00"
+      "last_success": "2026-10-07T18:41:00.692080+00:00"
     }
   ]
 }
