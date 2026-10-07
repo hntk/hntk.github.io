@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-07T06:50:47.303347+00:00",
+  "updated": "2026-10-07T12:47:53.270313+00:00",
   "items": [
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "published": "2026-10-07T12:45:31+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "published": "2026-10-07T11:37:07+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Apple’s Verified Photography System",
+      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+      "published": "2026-10-07T11:07:36+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "published": "2026-10-07T10:35:15+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "published": "2026-10-07T10:27:52+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Quoting Jake Boggan",
       "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
@@ -32,14 +72,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "published": "2026-10-06T21:00:27+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
@@ -74,14 +106,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "published": "2026-10-06T19:21:53+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
       "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
       "published": "2026-10-06T17:56:29+00:00",
@@ -96,14 +120,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "published": "2026-10-06T17:34:59+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "The model isn't cooperating",
@@ -210,22 +226,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "published": "2026-10-02T15:19:50+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Unidentified Flock Cameras in Florida",
-      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-      "published": "2026-10-02T14:52:46+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "published": "2026-10-02T13:00:39+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-07T06:50:47.303347+00:00"
+      "last_success": "2026-10-07T12:47:53.270313+00:00"
     }
   ]
 }
