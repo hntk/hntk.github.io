@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-06T18:39:39.766253+00:00",
+  "updated": "2026-10-07T01:12:05.142401+00:00",
   "items": [
+    {
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "published": "2026-10-07T00:16:45+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Quoting Victoria Kim",
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "published": "2026-10-06T23:58:56+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "published": "2026-10-06T23:04:13+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+      "published": "2026-10-06T21:31:10+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "published": "2026-10-06T21:00:27+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "published": "2026-10-06T20:50:32+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "published": "2026-10-06T20:32:58+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
+      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
+      "published": "2026-10-06T20:32:12+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "published": "2026-10-06T20:30:27+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "published": "2026-10-06T19:21:53+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
       "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
@@ -26,36 +106,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-      "published": "2026-10-06T17:15:24+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "The model isn't cooperating",
       "url": "https://portswigger.net/research/the-model-isnt-cooperating",
       "published": "2026-10-06T17:14:53+00:00",
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
-      "url": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
-      "published": "2026-10-06T16:59:24+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "published": "2026-10-06T16:33:54+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "What AI gets wrong and what failure teaches us",
@@ -66,52 +122,12 @@
       "category": "ai"
     },
     {
-      "title": "Scrimshaw Jukebox",
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "published": "2026-10-06T15:17:39+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "published": "2026-10-06T15:16:44+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
-      "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
-      "published": "2026-10-06T13:29:46+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
       "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
       "published": "2026-10-06T13:00:19+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "published": "2026-10-06T12:21:53+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-      "published": "2026-10-06T12:00:31+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Possible Vulnerability in Apple’s Automatic Reboot",
@@ -127,14 +143,6 @@
       "published": "2026-10-06T06:44:39+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Quoting Felix Rieseberg",
-      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-      "published": "2026-10-05T23:56:47+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
       "category": "ai"
     },
     {
@@ -176,14 +184,6 @@
       "source": "Schneier on Security",
       "source_id": "schneier",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Qwen3.8 27B addition in words",
-      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "published": "2026-10-04T23:34:00+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-06T18:39:39.766253+00:00"
+      "last_success": "2026-10-07T01:12:05.142401+00:00"
     }
   ]
 }
