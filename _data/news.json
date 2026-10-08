@@ -1,12 +1,68 @@
 {
-  "updated": "2026-10-08T06:53:10.586137+00:00",
+  "updated": "2026-10-08T12:47:36.970030+00:00",
   "items": [
     {
-      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-      "published": "2026-10-08T06:32:16+00:00",
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "published": "2026-10-08T12:08:16+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Writing the Next Chapter",
+      "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "published": "2026-10-08T12:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "published": "2026-10-08T11:42:46+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "published": "2026-10-08T11:15:33+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "How Technology Empowers—and Imperils—Dictators",
+      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
+      "published": "2026-10-08T11:07:35+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+      "published": "2026-10-08T11:00:14+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "published": "2026-10-08T10:29:19+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe",
+      "url": "https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/",
+      "published": "2026-10-08T09:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
       "category": "cybersecurity"
     },
     {
@@ -26,22 +82,6 @@
       "category": "ai"
     },
     {
-      "title": "Ransomware recovery CEO charged over secret ransom payments",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-      "published": "2026-10-07T23:04:37+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "published": "2026-10-07T21:56:42+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
       "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
       "published": "2026-10-07T21:42:55+00:00",
@@ -55,14 +95,6 @@
       "published": "2026-10-07T21:31:51+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "published": "2026-10-07T21:28:54+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -80,22 +112,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
-      "published": "2026-10-07T20:51:25+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-      "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-      "published": "2026-10-07T20:01:14+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
@@ -218,14 +234,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "Another Historic Cipher Falls to AI",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "published": "2026-10-05T11:04:47+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "published": "2026-10-03T22:56:48+00:00",
@@ -237,14 +245,6 @@
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "published": "2026-10-03T12:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
-      "url": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
-      "published": "2026-10-02T19:52:36+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-08T06:53:10.586137+00:00"
+      "last_success": "2026-10-08T12:47:36.970030+00:00"
     }
   ]
 }
