@@ -1,6 +1,110 @@
 {
-  "updated": "2026-10-07T18:41:00.692080+00:00",
+  "updated": "2026-10-08T01:11:50.802265+00:00",
   "items": [
+    {
+      "title": "Quoting Ben Affleck",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "published": "2026-10-07T23:14:58+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "published": "2026-10-07T23:04:37+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "published": "2026-10-07T21:56:42+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "published": "2026-10-07T21:42:55+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Shaq Got Hacked. Now He’s Pitching for a VPN",
+      "url": "https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/",
+      "published": "2026-10-07T21:31:51+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "published": "2026-10-07T21:28:54+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "published": "2026-10-07T21:25:13+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "published": "2026-10-07T20:56:21+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "published": "2026-10-07T20:51:25+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "published": "2026-10-07T20:50:13+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+      "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
+      "published": "2026-10-07T20:01:14+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+      "published": "2026-10-07T19:53:42+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "published": "2026-10-07T18:45:28+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
     {
       "title": "Multimodal open d1 decision models for the edge",
       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -26,60 +130,12 @@
       "category": "ai"
     },
     {
-      "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-      "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
-      "published": "2026-10-07T15:48:01+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Microsoft Outlook to block MSIX attachments starting November",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-      "published": "2026-10-07T15:44:22+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
-      "published": "2026-10-07T15:19:05+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
-      "published": "2026-10-07T15:04:08+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Anti-Patterns in Software Blogging",
       "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
       "published": "2026-10-07T14:53:51+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "published": "2026-10-07T14:12:37+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Ransomware has a new target. Is your backup ready?",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-      "published": "2026-10-07T14:01:11+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
@@ -95,46 +151,6 @@
       "published": "2026-10-07T11:07:36+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Quoting Jake Boggan",
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-      "published": "2026-10-07T04:47:55+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-      "published": "2026-10-07T00:16:45+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
-      "published": "2026-10-06T20:32:58+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-      "published": "2026-10-06T20:30:27+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
-      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-      "published": "2026-10-06T17:56:29+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -234,28 +250,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "published": "2026-10-02T13:00:39+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "SequenceHash: multihashing for the rest of us",
       "url": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
       "published": "2026-10-02T11:00:00+00:00",
       "source": "Trail of Bits",
       "source_id": "trail-of-bits",
       "category": "offensive-security"
-    },
-    {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "published": "2026-10-02T09:45:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
     },
     {
       "title": "Forecasting space weather risks on power grids",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-07T18:41:00.692080+00:00"
+      "last_success": "2026-10-08T01:11:50.802265+00:00"
     }
   ]
 }
