@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T01:11:50.802265+00:00",
+  "updated": "2026-10-08T06:53:10.586137+00:00",
   "items": [
+    {
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "published": "2026-10-08T06:32:16+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "published": "2026-10-08T00:00:24+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "Quoting Ben Affleck",
       "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
@@ -74,25 +90,9 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers hijack Google domains after breaching ccTLD registries",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-      "published": "2026-10-07T20:50:13+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
       "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
       "published": "2026-10-07T20:01:14+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
-      "published": "2026-10-07T19:53:42+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-08T01:11:50.802265+00:00"
+      "last_success": "2026-10-08T06:53:10.586137+00:00"
     }
   ]
 }
