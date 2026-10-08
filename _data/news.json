@@ -1,13 +1,77 @@
 {
-  "updated": "2026-10-08T12:47:36.970030+00:00",
+  "updated": "2026-10-08T18:40:49.812979+00:00",
   "items": [
     {
-      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-      "published": "2026-10-08T12:08:16+00:00",
+      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+      "published": "2026-10-08T18:01:50+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "published": "2026-10-08T17:10:55+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "published": "2026-10-08T16:32:46+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+      "published": "2026-10-08T15:28:36+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "published": "2026-10-08T15:26:33+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+      "published": "2026-10-08T14:04:42+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "published": "2026-10-08T14:00:10+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+      "published": "2026-10-08T13:00:46+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+      "url": "https://blog.cloudflare.com/radar-redesign/",
+      "published": "2026-10-08T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
     },
     {
       "title": "Writing the Next Chapter",
@@ -18,43 +82,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ASOS links data breach to social engineering attack, credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "published": "2026-10-08T11:42:46+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "published": "2026-10-08T11:15:33+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "How Technology Empowers—and Imperils—Dictators",
       "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
       "published": "2026-10-08T11:07:35+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-      "published": "2026-10-08T11:00:14+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Owner of Empire cybercrime market gets 40 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-      "published": "2026-10-08T10:29:19+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -64,14 +96,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "published": "2026-10-08T00:00:24+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Quoting Ben Affleck",
@@ -95,14 +119,6 @@
       "published": "2026-10-07T21:31:51+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
-      "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
-      "published": "2026-10-07T21:25:13+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -151,6 +167,14 @@
       "published": "2026-10-07T14:53:51+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "published": "2026-10-07T13:21:03+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -218,30 +242,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-      "published": "2026-10-05T13:00:57+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "Everything we launched during Birthday Week 2026",
-      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
-      "published": "2026-10-05T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "published": "2026-10-03T22:56:48+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "published": "2026-10-03T12:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-08T12:47:36.970030+00:00"
+      "last_success": "2026-10-08T18:40:49.812979+00:00"
     }
   ]
 }
