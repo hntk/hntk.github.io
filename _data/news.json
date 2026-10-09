@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-09T01:13:54.306295+00:00",
+  "updated": "2026-10-09T06:53:10.883194+00:00",
   "items": [
+    {
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "published": "2026-10-09T05:41:04+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
+      "url": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
+      "published": "2026-10-09T04:46:11+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ttok 1.0",
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "published": "2026-10-09T00:34:43+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "What the 2026 Microsoft Digital Defense Report reveals about AI, identity, and the future of cybersecurity",
       "url": "https://specterops.io/blog/2026/10/08/what-the-2026-microsoft-digital-defense-report-reveals-about-ai-identity-and-the-future-of-cybersecurity/",
@@ -8,6 +32,14 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
+    },
+    {
+      "title": "ttok 0.4",
+      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "published": "2026-10-08T23:34:28+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
@@ -74,14 +106,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "published": "2026-10-08T19:20:33+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
       "published": "2026-10-08T19:08:16+00:00",
@@ -130,11 +154,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Quoting Ben Affleck",
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "published": "2026-10-07T23:14:58+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "published": "2026-10-08T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -144,14 +168,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Claude Haiku 5.5",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "published": "2026-10-07T20:56:21+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
@@ -189,14 +205,6 @@
       "title": "Introducing Falcon ASR",
       "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
       "published": "2026-10-07T13:21:03+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "published": "2026-10-07T12:45:31+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
@@ -250,14 +258,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "published": "2026-10-03T12:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "SequenceHash: multihashing for the rest of us",
       "url": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
       "published": "2026-10-02T11:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
-      "status": "unavailable",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "status": "ok",
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-09T01:13:54.306295+00:00"
+      "last_success": "2026-10-09T06:53:10.883194+00:00"
     }
   ]
 }
