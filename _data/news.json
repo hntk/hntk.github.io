@@ -1,60 +1,100 @@
 {
-  "updated": "2026-10-08T18:40:49.812979+00:00",
+  "updated": "2026-10-09T01:13:54.306295+00:00",
   "items": [
+    {
+      "title": "What the 2026 Microsoft Digital Defense Report reveals about AI, identity, and the future of cybersecurity",
+      "url": "https://specterops.io/blog/2026/10/08/what-the-2026-microsoft-digital-defense-report-reveals-about-ai-identity-and-the-future-of-cybersecurity/",
+      "published": "2026-10-09T00:19:13+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+      "published": "2026-10-08T21:42:51+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "published": "2026-10-08T21:37:32+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "published": "2026-10-08T21:06:35+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Quoting Carson Gross",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "published": "2026-10-08T21:05:44+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+      "published": "2026-10-08T20:53:01+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+      "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
+      "published": "2026-10-08T20:39:44+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+      "published": "2026-10-08T20:39:31+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+      "published": "2026-10-08T20:09:45+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Low-cost Android phones ship with residential proxy malware",
+      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+      "published": "2026-10-08T19:20:33+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
+      "published": "2026-10-08T19:08:16+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
     {
       "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
       "published": "2026-10-08T18:01:50+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "published": "2026-10-08T17:10:55+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-      "published": "2026-10-08T16:32:46+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-      "published": "2026-10-08T15:28:36+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "published": "2026-10-08T15:26:33+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-      "published": "2026-10-08T14:04:42+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "published": "2026-10-08T14:00:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -72,14 +112,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Writing the Next Chapter",
-      "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-      "published": "2026-10-08T12:00:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "How Technology Empowers—and Imperils—Dictators",
@@ -104,14 +136,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
-      "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-      "published": "2026-10-07T21:42:55+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Shaq Got Hacked. Now He’s Pitching for a VPN",
@@ -162,14 +186,6 @@
       "category": "ai"
     },
     {
-      "title": "Anti-Patterns in Software Blogging",
-      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-      "published": "2026-10-07T14:53:51+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Introducing Falcon ASR",
       "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
       "published": "2026-10-07T13:21:03+00:00",
@@ -215,14 +231,6 @@
       "published": "2026-10-06T16:19:06+00:00",
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
-      "category": "ai"
-    },
-    {
-      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-      "published": "2026-10-06T13:00:19+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
       "category": "ai"
     },
     {
@@ -280,14 +288,6 @@
       "source": "Trail of Bits",
       "source_id": "trail-of-bits",
       "category": "offensive-security"
-    },
-    {
-      "title": "AI for Offensive Security: What Works, What Does Not, and How to Adopt It",
-      "url": "https://specterops.io/blog/2026/09/24/ai-for-offensive-security/",
-      "published": "2026-09-24T16:00:00+00:00",
-      "source": "SpecterOps",
-      "source_id": "specterops",
-      "category": "offensive-security"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
-      "status": "ok",
+      "status": "unavailable",
       "last_success": "2026-10-08T18:40:49.812979+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-08T18:40:49.812979+00:00"
+      "last_success": "2026-10-09T01:13:54.306295+00:00"
     }
   ]
 }
