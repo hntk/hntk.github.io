@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T18:37:50.217415+00:00",
+  "updated": "2026-10-11T01:17:01.686625+00:00",
   "items": [
+    {
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "published": "2026-10-11T00:52:37+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "published": "2026-10-10T23:58:04+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
       "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
@@ -45,14 +61,6 @@
       "title": "Quoting The New York Times",
       "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
       "published": "2026-10-10T02:04:12+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Deno is joining Cloudflare",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "published": "2026-10-09T22:48:37+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
@@ -114,17 +122,17 @@
       "category": "ai"
     },
     {
-      "title": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "published": "2026-10-09T15:02:29+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
       "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
       "published": "2026-10-09T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Deno is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "published": "2026-10-09T12:50:00+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
@@ -280,14 +288,6 @@
       "source": "Trail of Bits",
       "source_id": "trail-of-bits",
       "category": "offensive-security"
-    },
-    {
-      "title": "AI for Offensive Security: What Works, What Does Not, and How to Adopt It",
-      "url": "https://specterops.io/blog/2026/09/24/ai-for-offensive-security/",
-      "published": "2026-09-24T16:00:00+00:00",
-      "source": "SpecterOps",
-      "source_id": "specterops",
-      "category": "offensive-security"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-10T18:37:50.217415+00:00"
+      "last_success": "2026-10-11T01:17:01.686625+00:00"
     }
   ]
 }
