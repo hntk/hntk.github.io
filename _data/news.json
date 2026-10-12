@@ -1,13 +1,101 @@
 {
-  "updated": "2026-10-12T13:07:02.948809+00:00",
+  "updated": "2026-10-12T18:41:32.922272+00:00",
   "items": [
     {
-      "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "published": "2026-10-12T12:43:10+00:00",
+      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
+      "published": "2026-10-12T18:27:25+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "published": "2026-10-12T18:15:38+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "published": "2026-10-12T17:52:36+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published": "2026-10-12T16:27:23+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+      "published": "2026-10-12T16:01:08+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Simulating student learning for better AI tutoring",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "published": "2026-10-12T16:00:00+00:00",
+      "source": "Microsoft Research",
+      "source_id": "microsoft-research",
+      "category": "ai"
+    },
+    {
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "published": "2026-10-12T15:23:34+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "FBI Arrests Suspect in FBI-Hacking Case",
+      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+      "published": "2026-10-12T15:01:26+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "published": "2026-10-12T15:00:25+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Filter, reshape, and redact logs before export with Transformers",
+      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+      "published": "2026-10-12T14:44:59+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "F1 in Singapore: There's a new fastest car now",
+      "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+      "published": "2026-10-12T14:43:14+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "published": "2026-10-12T14:00:10+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
     },
     {
       "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
@@ -15,14 +103,6 @@
       "published": "2026-10-12T12:30:58+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-      "published": "2026-10-12T11:58:33+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -34,28 +114,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Review: 4-hour Musk documentary feels like two different films",
-      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-      "published": "2026-10-11T18:10:54+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-      "published": "2026-10-11T14:50:24+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "published": "2026-10-11T14:23:46+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
+      "title": "datasette-ports 0.4",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "published": "2026-10-12T04:57:07+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "Dwarf Fortress uses version control now",
@@ -66,22 +130,6 @@
       "category": "ai"
     },
     {
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "published": "2026-10-10T23:58:04+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "published": "2026-10-10T15:07:54+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
       "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
       "published": "2026-10-10T12:00:00+00:00",
@@ -90,25 +138,9 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Quoting The New York Times",
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "published": "2026-10-10T02:04:12+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
       "published": "2026-10-09T20:58:32+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Scramble Drives Cybersecurity M&A Boom",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "published": "2026-10-09T19:26:26+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
@@ -136,22 +168,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Deno is joining Cloudflare",
-      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
-      "published": "2026-10-09T12:50:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
-      "url": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
-      "published": "2026-10-09T04:46:11+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
     },
     {
       "title": "What the 2026 Microsoft Digital Defense Report reveals about AI, identity, and the future of cybersecurity",
@@ -194,12 +210,12 @@
       "category": "ai"
     },
     {
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "published": "2026-10-07T18:45:28+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
+      "title": "Shaq Got Hacked. Now He’s Pitching for a VPN",
+      "url": "https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/",
+      "published": "2026-10-07T21:31:51+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
     },
     {
       "title": "Multimodal open d1 decision models for the edge",
@@ -242,14 +258,6 @@
       "category": "ai"
     },
     {
-      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "published": "2026-10-06T11:06:46+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Smashing the token limit with overlapping fragments",
       "url": "https://portswigger.net/research/smashing-the-token-limit",
       "published": "2026-10-05T15:04:55+00:00",
@@ -264,14 +272,6 @@
       "source": "Trail of Bits",
       "source_id": "trail-of-bits",
       "category": "offensive-security"
-    },
-    {
-      "title": "Forecasting space weather risks on power grids",
-      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
-      "published": "2026-09-30T16:00:00+00:00",
-      "source": "Microsoft Research",
-      "source_id": "microsoft-research",
-      "category": "ai"
     },
     {
       "title": "Introducing Adversary Intelligence: LLM Tradecraft",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-12T13:07:02.948809+00:00"
+      "last_success": "2026-10-12T18:41:32.922272+00:00"
     }
   ]
 }
