@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-12T07:11:28.754443+00:00",
+  "updated": "2026-10-12T13:07:02.948809+00:00",
   "items": [
+    {
+      "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "published": "2026-10-12T12:43:10+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
+      "url": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
+      "published": "2026-10-12T12:30:58+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "published": "2026-10-12T11:58:33+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
+      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "published": "2026-10-12T11:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
     {
       "title": "Review: 4-hour Musk documentary feels like two different films",
       "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
@@ -50,28 +82,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "published": "2026-10-10T14:16:17+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
       "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
       "published": "2026-10-10T12:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "One with the world? A new look at brains transformed by psychedelics.",
-      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-      "published": "2026-10-10T11:15:35+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Quoting The New York Times",
@@ -104,14 +120,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "published": "2026-10-09T17:21:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Impactful scheduling for GPU clusters",
@@ -175,14 +183,6 @@
       "published": "2026-10-08T11:07:35+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe",
-      "url": "https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/",
-      "published": "2026-10-08T09:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
       "category": "cybersecurity"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-12T07:11:28.754443+00:00"
+      "last_success": "2026-10-12T13:07:02.948809+00:00"
     }
   ]
 }
