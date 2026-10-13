@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-12T18:41:32.922272+00:00",
+  "updated": "2026-10-13T01:15:31.705745+00:00",
   "items": [
+    {
+      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+      "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+      "published": "2026-10-12T21:54:35+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+      "published": "2026-10-12T21:42:42+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "published": "2026-10-12T20:59:50+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "published": "2026-10-12T20:26:14+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "published": "2026-10-12T20:13:52+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+      "published": "2026-10-12T20:00:53+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "published": "2026-10-12T19:23:01+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "published": "2026-10-12T18:51:59+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
@@ -18,30 +82,6 @@
       "category": "ai"
     },
     {
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "published": "2026-10-12T17:52:36+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "published": "2026-10-12T16:27:23+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-      "published": "2026-10-12T16:01:08+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Simulating student learning for better AI tutoring",
       "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
       "published": "2026-10-12T16:00:00+00:00",
@@ -50,12 +90,12 @@
       "category": "ai"
     },
     {
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "published": "2026-10-12T15:23:34+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
+      "title": "web-edit 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "published": "2026-10-12T15:54:36+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "FBI Arrests Suspect in FBI-Hacking Case",
@@ -82,30 +122,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "F1 in Singapore: There's a new fastest car now",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-      "published": "2026-10-12T14:43:14+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "published": "2026-10-12T14:00:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-      "url": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-      "published": "2026-10-12T12:30:58+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
       "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
       "published": "2026-10-12T11:00:00+00:00",
@@ -122,27 +138,11 @@
       "category": "ai"
     },
     {
-      "title": "Dwarf Fortress uses version control now",
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-      "published": "2026-10-11T00:52:37+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
       "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
       "published": "2026-10-10T12:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-      "published": "2026-10-09T20:58:32+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -168,6 +168,14 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
+    },
+    {
+      "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
+      "url": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
+      "published": "2026-10-09T04:46:11+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
     },
     {
       "title": "What the 2026 Microsoft Digital Defense Report reveals about AI, identity, and the future of cybersecurity",
@@ -208,14 +216,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "Shaq Got Hacked. Now He’s Pitching for a VPN",
-      "url": "https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/",
-      "published": "2026-10-07T21:31:51+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
     },
     {
       "title": "Multimodal open d1 decision models for the edge",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-12T18:41:32.922272+00:00"
+      "last_success": "2026-10-13T01:15:31.705745+00:00"
     }
   ]
 }
