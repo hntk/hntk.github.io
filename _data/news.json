@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-14T01:01:17.938498+00:00",
+  "updated": "2026-10-14T06:48:13.458343+00:00",
   "items": [
+    {
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "published": "2026-10-14T06:04:15+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "published": "2026-10-14T06:00:28+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+      "published": "2026-10-14T05:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
     {
       "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
       "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
@@ -90,14 +114,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic Finds Ingredients for Future AI Worms",
-      "url": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-      "published": "2026-10-13T20:35:23+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
       "published": "2026-10-13T17:05:48+00:00",
@@ -138,14 +154,6 @@
       "category": "ai"
     },
     {
-      "title": "NVIDIA Announces New Investments in France’s Startups",
-      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "published": "2026-10-13T05:00:31+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "Simulating student learning for better AI tutoring",
       "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
       "published": "2026-10-12T16:00:00+00:00",
@@ -160,14 +168,6 @@
       "source": "Schneier on Security",
       "source_id": "schneier",
       "category": "cybersecurity"
-    },
-    {
-      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-      "published": "2026-10-12T15:00:25+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
     },
     {
       "title": "Filter, reshape, and redact logs before export with Transformers",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-14T01:01:17.938498+00:00"
+      "last_success": "2026-10-14T06:48:13.458343+00:00"
     }
   ]
 }
