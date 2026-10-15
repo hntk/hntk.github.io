@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-15T00:59:58.433492+00:00",
+  "updated": "2026-10-15T06:48:23.271486+00:00",
   "items": [
+    {
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "published": "2026-10-15T05:00:12+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
     {
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
@@ -202,14 +210,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "published": "2026-10-13T12:00:49+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "Simulating student learning for better AI tutoring",
       "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
       "published": "2026-10-12T16:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-15T00:59:58.433492+00:00"
+      "last_success": "2026-10-15T06:48:23.271486+00:00"
     }
   ]
 }
