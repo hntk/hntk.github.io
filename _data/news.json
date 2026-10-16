@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T00:59:17.348524+00:00",
+  "updated": "2026-10-16T06:48:30.410067+00:00",
   "items": [
+    {
+      "title": "BeyondTrust patches zero-day exploited in attacks since August",
+      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+      "published": "2026-10-16T06:18:08+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published": "2026-10-16T01:44:47+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
     {
       "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
       "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
@@ -80,14 +96,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "published": "2026-10-15T18:20:59+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "A fully programmable secure web gateway",
@@ -172,14 +180,6 @@
     {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "published": "2026-10-15T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
       "published": "2026-10-15T00:00:00+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-16T00:59:17.348524+00:00"
+      "last_success": "2026-10-16T06:48:30.410067+00:00"
     }
   ]
 }
