@@ -1,10 +1,66 @@
 {
-  "updated": "2026-10-16T06:48:30.410067+00:00",
+  "updated": "2026-10-16T12:43:13.547141+00:00",
   "items": [
     {
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "published": "2026-10-16T06:18:08+00:00",
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "published": "2026-10-16T13:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "published": "2026-10-16T12:01:29+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Backdooring Open-Weight AI Models",
+      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+      "published": "2026-10-16T11:04:53+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+      "published": "2026-10-16T11:00:53+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Blue Origin is going all in on the New Glenn rocket",
+      "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+      "published": "2026-10-16T10:00:54+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "published": "2026-10-16T10:00:32+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "published": "2026-10-16T08:44:22+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "published": "2026-10-16T07:37:35+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -16,14 +72,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "published": "2026-10-15T22:21:06+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
@@ -42,52 +90,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Plex now helps sell movie theater tickets",
-      "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-      "published": "2026-10-15T21:22:15+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "published": "2026-10-15T21:09:57+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-      "published": "2026-10-15T20:43:20+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "published": "2026-10-15T20:34:01+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "published": "2026-10-15T20:25:04+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "published": "2026-10-15T19:48:43+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Chirp Pong",
@@ -210,14 +218,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "The Future of AI Cryptanalysis",
-      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "published": "2026-10-14T14:24:18+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Package managers have an integrity problem",
       "url": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/",
       "published": "2026-10-14T11:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-16T06:48:30.410067+00:00"
+      "last_success": "2026-10-16T12:43:13.547141+00:00"
     }
   ]
 }
