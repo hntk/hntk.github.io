@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T12:37:19.584880+00:00",
+  "updated": "2026-10-17T18:33:01.715622+00:00",
   "items": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "published": "2026-10-17T15:18:51+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "published": "2026-10-17T14:32:48+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Encryption Is Getting Squeezed From All Sides",
       "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
@@ -8,6 +24,22 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
+    },
+    {
+      "title": "Science says your boss should talk less in meetings",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "published": "2026-10-17T11:15:11+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "published": "2026-10-17T11:00:21+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
     },
     {
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -34,14 +66,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "published": "2026-10-16T20:20:07+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
       "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
       "published": "2026-10-16T20:00:59+00:00",
@@ -58,14 +82,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-      "published": "2026-10-16T19:41:18+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
       "url": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
       "published": "2026-10-16T19:22:12+00:00",
@@ -79,22 +95,6 @@
       "published": "2026-10-16T18:21:54+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "published": "2026-10-16T17:20:03+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "published": "2026-10-16T13:50:59+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-17T12:37:19.584880+00:00"
+      "last_success": "2026-10-17T18:33:01.715622+00:00"
     }
   ]
 }
