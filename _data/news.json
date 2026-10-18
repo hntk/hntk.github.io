@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-18T01:06:21.396357+00:00",
+  "updated": "2026-10-18T06:43:31.846738+00:00",
   "items": [
+    {
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "published": "2026-10-17T21:11:12+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
       "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
@@ -32,6 +40,14 @@
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "web-edit 0.1a2",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "published": "2026-10-17T13:16:49+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "Encryption Is Getting Squeezed From All Sides",
@@ -154,14 +170,6 @@
       "category": "ai"
     },
     {
-      "title": "Chirp Pong",
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "published": "2026-10-15T19:47:52+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "A fully programmable secure web gateway",
       "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
       "published": "2026-10-15T17:11:12+00:00",
@@ -208,14 +216,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "published": "2026-10-15T13:04:03+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-18T01:06:21.396357+00:00"
+      "last_success": "2026-10-18T06:43:31.846738+00:00"
     }
   ]
 }
