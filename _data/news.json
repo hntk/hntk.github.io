@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T18:33:42.110204+00:00",
+  "updated": "2026-10-19T01:06:25.224182+00:00",
   "items": [
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "published": "2026-10-18T23:43:09+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "published": "2026-10-18T23:16:16+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Anthropic gives outside AI watchdog “employee-like” access",
       "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
@@ -58,14 +74,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "web-edit 0.1a2",
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "published": "2026-10-17T13:16:49+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Encryption Is Getting Squeezed From All Sides",
       "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
       "published": "2026-10-17T12:00:00+00:00",
@@ -88,14 +96,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
-      "published": "2026-10-16T22:06:37+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-18T18:33:42.110204+00:00"
+      "last_success": "2026-10-19T01:06:25.224182+00:00"
     }
   ]
 }
