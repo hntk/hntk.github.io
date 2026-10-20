@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-20T06:48:07.903422+00:00",
+  "updated": "2026-10-20T12:44:09.732757+00:00",
   "items": [
+    {
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "published": "2026-10-20T11:31:22+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "published": "2026-10-20T11:21:42+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "published": "2026-10-20T11:18:35+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+      "published": "2026-10-20T11:03:13+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+      "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+      "published": "2026-10-20T11:00:16+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
       "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
@@ -15,6 +55,14 @@
       "published": "2026-10-20T05:00:00+00:00",
       "source": "NVIDIA",
       "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -34,36 +82,12 @@
       "category": "tech-architecture"
     },
     {
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "published": "2026-10-19T21:49:48+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "published": "2026-10-19T21:24:51+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
       "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
       "published": "2026-10-19T21:13:41+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-      "published": "2026-10-19T20:54:17+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
@@ -79,14 +103,6 @@
       "published": "2026-10-19T19:49:17+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "published": "2026-10-19T19:40:58+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -210,22 +226,6 @@
       "category": "ai"
     },
     {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "published": "2026-10-16T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Measuring Human Cryptanalysis Effort",
-      "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-      "published": "2026-10-15T16:24:29+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Proof-based general-purpose computing with Magnetar",
       "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
       "published": "2026-10-15T16:00:00+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-20T06:48:07.903422+00:00"
+      "last_success": "2026-10-20T12:44:09.732757+00:00"
     }
   ]
 }
