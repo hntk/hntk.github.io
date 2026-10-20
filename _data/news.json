@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T01:02:04.840928+00:00",
+  "updated": "2026-10-20T06:48:07.903422+00:00",
   "items": [
+    {
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "published": "2026-10-20T05:59:56+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+      "published": "2026-10-20T05:00:00+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
     {
       "title": "My obituary for programming",
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
@@ -45,14 +61,6 @@
       "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
       "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
       "published": "2026-10-19T20:54:17+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "published": "2026-10-19T20:21:53+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -167,14 +175,6 @@
       "published": "2026-10-18T23:16:16+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "published": "2026-10-17T21:00:13+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
       "category": "ai"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-20T01:02:04.840928+00:00"
+      "last_success": "2026-10-20T06:48:07.903422+00:00"
     }
   ]
 }
