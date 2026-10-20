@@ -1,28 +1,116 @@
 {
-  "updated": "2026-10-19T18:39:45.796200+00:00",
+  "updated": "2026-10-20T01:02:04.840928+00:00",
   "items": [
+    {
+      "title": "My obituary for programming",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "published": "2026-10-19T23:58:25+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+      "published": "2026-10-19T22:44:26+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "published": "2026-10-19T21:49:48+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "published": "2026-10-19T21:24:51+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+      "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+      "published": "2026-10-19T21:13:41+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "published": "2026-10-19T20:54:17+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "published": "2026-10-19T20:21:53+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "published": "2026-10-19T19:55:01+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "published": "2026-10-19T19:49:17+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "published": "2026-10-19T19:40:58+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "published": "2026-10-19T19:27:08+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+      "url": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "published": "2026-10-19T19:19:33+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "published": "2026-10-19T19:12:53+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
     {
       "title": "Introducing Clairic, a new System One class of extraction models",
       "url": "https://blog.cloudflare.com/clairic-extraction-model/",
       "published": "2026-10-19T17:48:26+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "published": "2026-10-19T17:27:15+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Huge DMV data breach impacted current and former Florida residents",
-      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "published": "2026-10-19T16:38:13+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
       "category": "tech-architecture"
     },
     {
@@ -42,54 +130,6 @@
       "category": "ai"
     },
     {
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "published": "2026-10-19T14:55:23+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "published": "2026-10-19T14:45:43+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-      "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-      "published": "2026-10-19T14:35:01+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
-      "published": "2026-10-19T14:28:11+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "published": "2026-10-19T14:00:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
-      "published": "2026-10-19T14:00:00+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
       "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
       "published": "2026-10-19T13:00:00+00:00",
@@ -106,6 +146,14 @@
       "category": "cybersecurity"
     },
     {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "2026-10-19T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
       "title": "llm-tools-datasette 0.1.1",
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
       "published": "2026-10-18T23:43:09+00:00",
@@ -117,14 +165,6 @@
       "title": "llm-echo 0.5",
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
       "published": "2026-10-18T23:16:16+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Inline rendering with document​.currentScript",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "published": "2026-10-17T21:11:12+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
@@ -154,30 +194,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "published": "2026-10-16T20:34:37+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
-      "url": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
-      "published": "2026-10-16T18:21:54+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Continuous accountability for Verified bots",
-      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
-      "published": "2026-10-16T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Backdooring Open-Weight AI Models",
       "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
       "published": "2026-10-16T11:04:53+00:00",
@@ -199,22 +215,6 @@
       "published": "2026-10-16T00:00:00+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "published": "2026-10-15T20:34:01+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-      "published": "2026-10-15T17:00:23+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
       "category": "ai"
     },
     {
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-19T18:39:45.796200+00:00"
+      "last_success": "2026-10-20T01:02:04.840928+00:00"
     }
   ]
 }
