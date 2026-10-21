@@ -1,13 +1,157 @@
 {
-  "updated": "2026-10-21T12:44:11.651667+00:00",
+  "updated": "2026-10-21T18:37:46.231201+00:00",
   "items": [
     {
-      "title": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
-      "published": "2026-10-21T12:39:49+00:00",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "published": "2026-10-21T18:34:42+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "2026-10-21T18:26:30+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published": "2026-10-21T17:35:36+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+      "published": "2026-10-21T16:50:15+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+      "published": "2026-10-21T16:46:19+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "published": "2026-10-21T16:26:53+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "published": "2026-10-21T16:25:16+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "2026-10-21T16:04:43+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "published": "2026-10-21T16:00:00+00:00",
+      "source": "Microsoft Research",
+      "source_id": "microsoft-research",
+      "category": "ai"
+    },
+    {
+      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
+      "url": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
+      "published": "2026-10-21T15:44:48+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
+      "url": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
+      "published": "2026-10-21T15:29:09+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "published": "2026-10-21T15:14:07+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Your AI agent fixed the bug, but what else did it change?",
+      "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+      "published": "2026-10-21T15:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+      "published": "2026-10-21T14:26:19+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Introducing full transaction detection for Cloudflare WAF",
+      "url": "https://blog.cloudflare.com/full-transaction-waf/",
+      "published": "2026-10-21T14:10:42+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "published": "2026-10-21T14:07:05+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "published": "2026-10-21T14:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "published": "2026-10-21T13:56:45+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "published": "2026-10-21T13:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
     },
     {
       "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
@@ -18,12 +162,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "published": "2026-10-21T12:20:34+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
+      "title": "Review: Carrie is a triumphant remix with one major flaw",
+      "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+      "published": "2026-10-21T11:19:12+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
     },
     {
       "title": "Workshop on Economics and Information Security (WEIS) Archive",
@@ -58,38 +202,6 @@
       "category": "ai"
     },
     {
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "published": "2026-10-21T10:14:53+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
-      "url": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
-      "published": "2026-10-21T10:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "published": "2026-10-21T08:36:24+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "published": "2026-10-21T02:12:18+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "eMudhra Intermediate CA Compromise",
       "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
       "published": "2026-10-20T23:50:25+00:00",
@@ -98,59 +210,11 @@
       "category": "ai"
     },
     {
-      "title": "8 eMudhra certificates are compromised. Here's what you need to know",
-      "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-      "published": "2026-10-20T22:20:16+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "published": "2026-10-20T22:04:54+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-      "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-      "published": "2026-10-20T21:45:47+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-      "published": "2026-10-20T21:44:34+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
       "published": "2026-10-20T19:34:19+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
-      "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-      "published": "2026-10-20T19:16:49+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "published": "2026-10-20T16:09:19+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -162,60 +226,12 @@
       "category": "ai"
     },
     {
-      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "published": "2026-10-20T15:35:45+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "published": "2026-10-20T15:19:48+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Introducing tsrs: A port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "published": "2026-10-20T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Possible new Cellebrite iPhone Radio Zero-Day",
       "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
       "published": "2026-10-20T11:03:13+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
       "category": "cybersecurity"
-    },
-    {
-      "title": "My obituary for programming",
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "published": "2026-10-19T23:58:25+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "published": "2026-10-19T19:49:17+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-      "published": "2026-10-19T19:12:53+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "Training AIs to Solve CAPTCHAs",
@@ -258,14 +274,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "Simulating student learning for better AI tutoring",
-      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-      "published": "2026-10-12T16:00:00+00:00",
-      "source": "Microsoft Research",
-      "source_id": "microsoft-research",
-      "category": "ai"
-    },
-    {
       "title": "What the 2026 Microsoft Digital Defense Report reveals about AI, identity, and the future of cybersecurity",
       "url": "https://specterops.io/blog/2026/10/08/what-the-2026-microsoft-digital-defense-report-reveals-about-ai-identity-and-the-future-of-cybersecurity/",
       "published": "2026-10-09T00:19:13+00:00",
@@ -280,14 +288,6 @@
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "Smashing the token limit with overlapping fragments",
-      "url": "https://portswigger.net/research/smashing-the-token-limit",
-      "published": "2026-10-05T15:04:55+00:00",
-      "source": "PortSwigger Research",
-      "source_id": "portswigger",
-      "category": "offensive-security"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-21T12:44:11.651667+00:00"
+      "last_success": "2026-10-21T18:37:46.231201+00:00"
     }
   ]
 }
