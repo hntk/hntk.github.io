@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-21T06:49:20.997607+00:00",
+  "updated": "2026-10-21T12:44:11.651667+00:00",
   "items": [
+    {
+      "title": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
+      "published": "2026-10-21T12:39:49+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+      "published": "2026-10-21T12:35:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "published": "2026-10-21T12:20:34+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "published": "2026-10-21T11:02:22+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "published": "2026-10-21T10:50:37+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "published": "2026-10-21T10:45:17+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "published": "2026-10-21T10:30:41+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "published": "2026-10-21T10:14:53+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
+      "url": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
+      "published": "2026-10-21T10:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "published": "2026-10-21T08:36:24+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "PHP warns it plans to release 2 emergency patches imminently",
       "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
@@ -8,22 +88,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "published": "2026-10-21T01:01:50+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "published": "2026-10-21T00:46:42+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "eMudhra Intermediate CA Compromise",
@@ -66,14 +130,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "published": "2026-10-20T20:56:43+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
       "published": "2026-10-20T19:34:19+00:00",
@@ -88,14 +144,6 @@
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "published": "2026-10-20T18:17:47+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
     },
     {
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -146,14 +194,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-      "published": "2026-10-20T05:00:00+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "My obituary for programming",
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
       "published": "2026-10-19T23:58:25+00:00",
@@ -170,36 +210,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-      "published": "2026-10-19T19:27:08+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "Cutting our inference bill by 68% by being obsessive about optimization",
       "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
       "published": "2026-10-19T19:12:53+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-      "published": "2026-10-19T16:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
-      "published": "2026-10-19T15:00:31+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
     },
     {
       "title": "Training AIs to Solve CAPTCHAs",
@@ -216,22 +232,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "Encryption Is Getting Squeezed From All Sides",
-      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-      "published": "2026-10-17T12:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Backdooring Open-Weight AI Models",
-      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-      "published": "2026-10-16T11:04:53+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "Proof-based general-purpose computing with Magnetar",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-21T06:49:20.997607+00:00"
+      "last_success": "2026-10-21T12:44:11.651667+00:00"
     }
   ]
 }
