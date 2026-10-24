@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T21:30:55.499642+00:00",
+  "updated": "2026-10-24T04:48:05.657099+00:00",
   "items": [
+    {
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "published": "2026-10-23T22:48:25+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "published": "2026-10-23T21:35:13+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
       "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
@@ -10,7 +26,7 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "published": "2026-10-23T20:55:05+00:00",
       "source": "BleepingComputer",
@@ -48,14 +64,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
-      "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
-      "published": "2026-10-23T19:33:58+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
@@ -149,14 +157,6 @@
       "title": "DE STAAT - FREEDOM (Official Music Video)",
       "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
       "published": "2026-10-22T19:42:26+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "published": "2026-10-22T18:09:56+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-23T21:30:55.499642+00:00"
+      "last_success": "2026-10-24T04:48:05.657099+00:00"
     }
   ]
 }
