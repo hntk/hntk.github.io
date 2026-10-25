@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-25T11:46:36.263400+00:00",
+  "updated": "2026-10-25T16:34:56.913127+00:00",
   "items": [
+    {
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "published": "2026-10-25T15:49:38+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
@@ -88,14 +96,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "published": "2026-10-23T18:54:41+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Origin Range Requests: Serving large files without range-request tuning",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-25T11:46:36.263400+00:00"
+      "last_success": "2026-10-25T16:34:56.913127+00:00"
     }
   ]
 }
