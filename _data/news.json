@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:58:49.534295+00:00",
+  "updated": "2026-10-26T04:59:38.583919+00:00",
   "items": [
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -8,6 +8,14 @@
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
+    },
+    {
+      "title": "Seam Cutter",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "published": "2026-10-25T15:10:19+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
@@ -88,14 +96,6 @@
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Introducing Kimi K3.1 Pro",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "published": "2026-10-23T19:40:54+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Origin Range Requests: Serving large files without range-request tuning",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-25T20:58:49.534295+00:00"
+      "last_success": "2026-10-26T04:59:38.583919+00:00"
     }
   ]
 }
