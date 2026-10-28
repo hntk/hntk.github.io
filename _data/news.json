@@ -1,20 +1,68 @@
 {
-  "updated": "2026-10-28T05:55:55.319605+00:00",
+  "updated": "2026-10-28T13:12:54.187146+00:00",
   "items": [
     {
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "published": "2026-10-27T23:35:51+00:00",
+      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "published": "2026-10-28T12:19:57+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-      "published": "2026-10-27T22:43:27+00:00",
+      "title": "Studying Fraudulent North Korean IT Workers",
+      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+      "published": "2026-10-28T11:05:00+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "published": "2026-10-28T11:00:49+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "published": "2026-10-28T10:46:23+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "published": "2026-10-28T10:09:07+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "published": "2026-10-28T09:43:15+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "published": "2026-10-28T09:30:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+      "url": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
+      "published": "2026-10-28T06:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -34,22 +82,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-      "published": "2026-10-27T22:07:34+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-      "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-      "published": "2026-10-27T22:04:50+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
       "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
       "published": "2026-10-27T21:15:03+00:00",
@@ -61,14 +93,6 @@
       "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
       "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
       "published": "2026-10-27T20:42:40+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-      "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-      "published": "2026-10-27T19:58:06+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
@@ -162,14 +186,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "Quoting Jason Koebler",
-      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "published": "2026-10-26T19:00:25+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
       "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
       "published": "2026-10-26T14:09:00+00:00",
@@ -186,28 +202,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "published": "2026-10-24T12:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Signed, Sealed, and Relayed, NTLM-style: Bypassing LDAP Signing Through Reauthentication",
       "url": "https://specterops.io/blog/2026/10/23/ldap-signing-bypass-ntlm-relay/",
       "published": "2026-10-23T16:08:20+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "Compromised TLS Certificates",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "published": "2026-10-23T11:04:22+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "Kazakhstan Expands Compute for Its AI Future",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-28T05:55:55.319605+00:00"
+      "last_success": "2026-10-28T13:12:54.187146+00:00"
     }
   ]
 }
