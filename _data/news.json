@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-29T22:51:57.941381+00:00",
+  "updated": "2026-10-30T06:01:44.077096+00:00",
   "items": [
+    {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "published": "2026-10-29T23:35:52+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
@@ -21,14 +29,6 @@
       "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
       "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
       "published": "2026-10-29T22:09:24+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "published": "2026-10-29T22:08:04+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-29T22:51:57.941381+00:00"
+      "last_success": "2026-10-30T06:01:44.077096+00:00"
     }
   ]
 }
