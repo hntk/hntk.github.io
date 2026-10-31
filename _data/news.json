@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-30T22:29:13.852809+00:00",
+  "updated": "2026-10-31T05:57:02.744883+00:00",
   "items": [
+    {
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "published": "2026-10-31T00:07:22+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "published": "2026-10-30T22:36:41+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+      "published": "2026-10-30T22:21:05+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "dbreunig/nesformer",
       "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
@@ -18,28 +42,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "published": "2026-10-30T20:40:13+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
       "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
       "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
       "published": "2026-10-30T20:38:46+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-      "published": "2026-10-30T20:17:50+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
@@ -50,12 +58,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "published": "2026-10-30T19:30:52+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "published": "2026-10-30T19:46:08+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
     },
     {
       "title": "nemotron-halloween",
@@ -120,14 +128,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Undead Software Projects Continue to Raise Security Risks",
-      "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-      "published": "2026-10-30T14:10:37+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-10-30T22:29:13.852809+00:00"
+      "last_success": "2026-10-31T05:57:02.744883+00:00"
     }
   ]
 }
