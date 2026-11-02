@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-01T22:11:34.275654+00:00",
+  "updated": "2026-11-02T06:26:30.467392+00:00",
   "items": [
+    {
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "published": "2026-11-01T23:24:22+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
@@ -37,14 +45,6 @@
       "title": "How We Took Over ChatGPT Accounts",
       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "published": "2026-10-31T23:15:22+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "published": "2026-10-31T22:10:01+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-01T22:11:34.275654+00:00"
+      "last_success": "2026-11-02T06:26:30.467392+00:00"
     }
   ]
 }
