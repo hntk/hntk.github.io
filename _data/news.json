@@ -1,6 +1,126 @@
 {
-  "updated": "2026-11-02T06:26:30.467392+00:00",
+  "updated": "2026-11-02T21:47:58.890413+00:00",
   "items": [
+    {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "published": "2026-11-02T21:40:14+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "published": "2026-11-02T21:21:43+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "published": "2026-11-02T19:52:23+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Most of our measures of a key cognitive process don't agree",
+      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "published": "2026-11-02T19:13:26+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "published": "2026-11-02T19:00:45+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "published": "2026-11-02T18:16:34+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+      "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
+      "published": "2026-11-02T17:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft's AI Risk Report Misses This Key Detail",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+      "published": "2026-11-02T15:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
+      "published": "2026-11-02T14:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "published": "2026-11-02T14:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "published": "2026-11-02T13:31:26+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "AI Vulnerability Finding",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
+      "published": "2026-11-02T12:02:34+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Backporting security fixes at scale with Codex",
+      "url": "https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/",
+      "published": "2026-11-02T12:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "My Journey to the Center of America’s Political Spam Text Hell",
+      "url": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
+      "published": "2026-11-02T11:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "published": "2026-11-02T10:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
     {
       "title": "If in doubt, delete the uv.lock file",
       "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
@@ -8,14 +128,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "published": "2026-11-01T19:57:53+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "Quoting Kyle Kingsbury",
@@ -26,81 +138,9 @@
       "category": "ai"
     },
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "published": "2026-11-01T15:11:21+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "published": "2026-11-01T13:53:11+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How We Took Over ChatGPT Accounts",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-      "published": "2026-10-31T23:15:22+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "published": "2026-10-31T12:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "published": "2026-10-31T11:15:26+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "published": "2026-10-31T11:02:34+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "published": "2026-10-31T00:07:22+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-      "published": "2026-10-30T20:38:46+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-      "published": "2026-10-30T20:05:58+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Behind the Scenes of How Operation Blackout Went Down",
-      "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-      "published": "2026-10-30T19:46:08+00:00",
+      "title": "Investors Dish on New Startups & What They'd Back Next",
+      "url": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
+      "published": "2026-10-30T21:08:25+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
@@ -120,14 +160,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-      "published": "2026-10-30T15:39:54+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Bloatware in Aftermarket Auto Parts",
@@ -162,14 +194,6 @@
       "category": "ai"
     },
     {
-      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "published": "2026-10-30T11:36:52+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Microsoft Research Focus – Edition #97",
       "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
       "published": "2026-10-29T19:19:16+00:00",
@@ -202,14 +226,6 @@
       "category": "ai"
     },
     {
-      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
-      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
-      "published": "2026-10-29T12:55:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "url": "https://huggingface.co/blog/announcing-project-protostar",
       "published": "2026-10-29T00:00:00+00:00",
@@ -232,14 +248,6 @@
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "published": "2026-10-27T11:01:26+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "Signed, Sealed, and Relayed, NTLM-style: Bypassing LDAP Signing Through Reauthentication",
@@ -280,14 +288,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "Package managers have an integrity problem",
-      "url": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/",
-      "published": "2026-10-14T11:00:00+00:00",
-      "source": "Trail of Bits",
-      "source_id": "trail-of-bits",
-      "category": "offensive-security"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-02T06:26:30.467392+00:00"
+      "last_success": "2026-11-02T21:47:58.890413+00:00"
     }
   ]
 }
