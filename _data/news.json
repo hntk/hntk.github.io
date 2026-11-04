@@ -1,6 +1,118 @@
 {
-  "updated": "2026-11-04T06:42:08.843282+00:00",
+  "updated": "2026-11-04T19:53:32.059464+00:00",
   "items": [
+    {
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+      "published": "2026-11-04T19:16:25+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "published": "2026-11-04T19:05:19+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "published": "2026-11-04T18:02:56+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+      "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+      "published": "2026-11-04T18:00:40+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published": "2026-11-04T17:50:10+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Mi Scusi, My SCSI: Abusing iSCSI Target Server",
+      "url": "https://specterops.io/blog/2026/11/04/unauthenticated-iscsi-target-server/",
+      "published": "2026-11-04T17:00:00+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "published": "2026-11-04T16:58:46+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+      "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+      "published": "2026-11-04T16:24:08+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+      "published": "2026-11-04T16:06:03+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "What I learned driving the Slate electric truck prototype",
+      "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+      "published": "2026-11-04T15:42:18+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "published": "2026-11-04T15:26:02+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Making HTTP header injection critical with one prompt",
+      "url": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
+      "published": "2026-11-04T15:12:29+00:00",
+      "source": "PortSwigger Research",
+      "source_id": "portswigger",
+      "category": "offensive-security"
+    },
+    {
+      "title": "Incidents Move Too Fast for Pen & Paper",
+      "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
+      "published": "2026-11-04T14:17:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "published": "2026-11-04T14:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
     {
       "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
@@ -10,60 +122,20 @@
       "category": "cybersecurity"
     },
     {
-      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-      "published": "2026-11-03T22:39:37+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "published": "2026-11-04T00:29:36+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "published": "2026-11-03T22:18:50+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
-      "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-      "published": "2026-11-03T22:16:49+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-      "url": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-      "published": "2026-11-03T21:57:12+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "published": "2026-11-03T21:28:44+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "published": "2026-11-03T20:39:55+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "published": "2026-11-03T20:05:50+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
+      "title": "datasette-agent 0.5a0",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "published": "2026-11-03T23:13:45+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
     },
     {
       "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
@@ -72,14 +144,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Buttons are back and storage is king when it comes to car interiors",
-      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-      "published": "2026-11-03T18:19:31+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "StateBench: Testing how language models track state changes over long documents",
@@ -103,14 +167,6 @@
       "published": "2026-11-03T16:35:36+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "published": "2026-11-03T16:29:48+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
       "category": "ai"
     },
     {
@@ -154,30 +210,6 @@
       "category": "ai"
     },
     {
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-      "published": "2026-11-03T05:32:25+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "October sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "published": "2026-11-03T05:28:59+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "published": "2026-11-03T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
       "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
       "published": "2026-11-02T17:00:00+00:00",
@@ -208,22 +240,6 @@
       "source": "Trail of Bits",
       "source_id": "trail-of-bits",
       "category": "offensive-security"
-    },
-    {
-      "title": "My Journey to the Center of America’s Political Spam Text Hell",
-      "url": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
-      "published": "2026-11-02T11:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
-      "url": "https://blog.cloudflare.com/emudhra-patching/",
-      "published": "2026-10-30T17:38:50+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "Bloatware in Aftermarket Auto Parts",
@@ -272,22 +288,6 @@
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "Your AI agent fixed the bug, but what else did it change?",
-      "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-      "published": "2026-10-21T15:00:00+00:00",
-      "source": "Trail of Bits",
-      "source_id": "trail-of-bits",
-      "category": "offensive-security"
-    },
-    {
-      "title": "ConnectWise SkyKick Breach: How to Check Your Microsoft 365 Tenant",
-      "url": "https://specterops.io/blog/2026/10/17/connectwise-skykick-breach-microsoft-365/",
-      "published": "2026-10-17T20:41:40+00:00",
-      "source": "SpecterOps",
-      "source_id": "specterops",
-      "category": "offensive-security"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-04T06:42:08.843282+00:00"
+      "last_success": "2026-11-04T19:53:32.059464+00:00"
     }
   ]
 }
