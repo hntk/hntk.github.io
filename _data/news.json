@@ -1,29 +1,149 @@
 {
-  "updated": "2026-11-06T07:00:05.361217+00:00",
+  "updated": "2026-11-06T19:32:59.305828+00:00",
   "items": [
     {
-      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "published": "2026-11-06T00:56:44+00:00",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "published": "2026-11-06T18:46:52+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "published": "2026-11-06T00:17:06+00:00",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "published": "2026-11-06T18:43:43+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The folks behind John Wick are back with Karōshi trailer",
+      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+      "published": "2026-11-06T18:30:19+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
     },
     {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "published": "2026-11-05T23:09:36+00:00",
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+      "published": "2026-11-06T18:27:30+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "You know the launch market is tough when satellite companies start building rockets",
+      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+      "published": "2026-11-06T18:20:47+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
+    },
+    {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "published": "2026-11-06T17:43:02+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "published": "2026-11-06T17:13:12+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "published": "2026-11-06T17:04:23+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Principal Problems: App Registrations, Service Principals, and the Hidden Risk of Multi-Tenant Apps",
+      "url": "https://specterops.io/blog/2026/11/06/app-registrations-vs-service-principals/",
+      "published": "2026-11-06T17:00:00+00:00",
+      "source": "SpecterOps",
+      "source_id": "specterops",
+      "category": "offensive-security"
+    },
+    {
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "published": "2026-11-06T16:00:35+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "published": "2026-11-06T15:25:31+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Pinpointing Location of Videos from Background Airplane Sounds",
+      "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
+      "published": "2026-11-06T14:57:48+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published": "2026-11-06T14:00:48+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+      "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+      "published": "2026-11-06T14:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The post-quantum future of web privacy",
+      "url": "https://blog.cloudflare.com/vole-mole/",
+      "published": "2026-11-06T14:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "After Binance, check what your signing systems can approve",
+      "url": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
+      "published": "2026-11-06T12:00:00+00:00",
+      "source": "Trail of Bits",
+      "source_id": "trail-of-bits",
+      "category": "offensive-security"
+    },
+    {
+      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+      "published": "2026-11-06T09:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
     },
     {
       "title": "6 Best VPN Services (2026), Tested and Reviewed",
@@ -31,54 +151,6 @@
       "published": "2026-11-05T23:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "published": "2026-11-05T22:49:03+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-      "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-      "published": "2026-11-05T21:35:05+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-      "published": "2026-11-05T21:30:30+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-      "published": "2026-11-05T21:00:47+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "published": "2026-11-05T20:15:08+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "published": "2026-11-05T20:05:39+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -122,27 +194,11 @@
       "category": "ai"
     },
     {
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-      "published": "2026-11-05T16:00:05+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
       "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
       "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
       "published": "2026-11-05T16:00:00+00:00",
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
-      "category": "ai"
-    },
-    {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "published": "2026-11-05T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
       "category": "ai"
     },
     {
@@ -152,14 +208,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "published": "2026-11-04T17:50:10+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
     },
     {
       "title": "Mi Scusi, My SCSI: Abusing iSCSI Target Server",
@@ -194,36 +242,12 @@
       "category": "tech-architecture"
     },
     {
-      "title": "datasette-apps 0.3a0",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-      "published": "2026-11-04T00:29:36+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
-      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
-      "published": "2026-11-03T19:04:58+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Learn the rules: The hacker mindset",
       "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
       "published": "2026-11-03T17:14:38+00:00",
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
       "category": "ai"
-    },
-    {
-      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-      "url": "https://blog.cloudflare.com/zero-wire/",
-      "published": "2026-11-03T14:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "AIs Hacking the Law",
@@ -258,36 +282,12 @@
       "category": "offensive-security"
     },
     {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "published": "2026-10-30T15:20:02+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
       "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
       "published": "2026-10-30T13:05:28+00:00",
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
       "category": "ai"
-    },
-    {
-      "title": "Scalable Vector Grief",
-      "url": "https://portswigger.net/research/scalable-vector-grief",
-      "published": "2026-10-27T14:29:26+00:00",
-      "source": "PortSwigger Research",
-      "source_id": "portswigger",
-      "category": "offensive-security"
-    },
-    {
-      "title": "Signed, Sealed, and Relayed, NTLM-style: Bypassing LDAP Signing Through Reauthentication",
-      "url": "https://specterops.io/blog/2026/10/23/ldap-signing-bypass-ntlm-relay/",
-      "published": "2026-10-23T16:08:20+00:00",
-      "source": "SpecterOps",
-      "source_id": "specterops",
-      "category": "offensive-security"
     }
   ],
   "sources": [
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-06T07:00:05.361217+00:00"
+      "last_success": "2026-11-06T19:32:59.305828+00:00"
     }
   ]
 }
