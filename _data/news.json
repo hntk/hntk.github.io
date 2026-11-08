@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-07T22:00:20.321887+00:00",
+  "updated": "2026-11-08T06:19:05.799320+00:00",
   "items": [
+    {
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "published": "2026-11-07T23:57:46+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Hackers pull off $133 million French bank heist via service provider",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -218,14 +226,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "datasette-llm 0.1a10",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "published": "2026-11-04T15:26:02+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
       "title": "Making HTTP header injection critical with one prompt",
       "url": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
       "published": "2026-11-04T15:12:29+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-07T22:00:20.321887+00:00"
+      "last_success": "2026-11-08T06:19:05.799320+00:00"
     }
   ]
 }
