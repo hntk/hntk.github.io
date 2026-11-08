@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-08T13:39:22.594723+00:00",
+  "updated": "2026-11-08T22:16:19.217762+00:00",
   "items": [
+    {
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "published": "2026-11-08T15:43:08+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
     {
       "title": "Physicists listened to electrical noise to crack a superconductor mystery",
       "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
@@ -56,14 +64,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "published": "2026-11-07T00:00:55+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-08T13:39:22.594723+00:00"
+      "last_success": "2026-11-08T22:16:19.217762+00:00"
     }
   ]
 }
