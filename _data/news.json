@@ -1,13 +1,133 @@
 {
-  "updated": "2026-11-13T06:57:19.219563+00:00",
+  "updated": "2026-11-13T19:52:28.044556+00:00",
   "items": [
     {
-      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "published": "2026-11-12T22:59:51+00:00",
+      "title": "Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "published": "2026-11-13T19:49:16+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
+    },
+    {
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "published": "2026-11-13T19:38:36+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "published": "2026-11-13T19:26:07+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "published": "2026-11-13T19:08:57+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published": "2026-11-13T18:00:39+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "German military drone operations disrupted by cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "published": "2026-11-13T17:31:56+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "published": "2026-11-13T17:25:45+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "The Microsoft Outage Is a Warning for the World",
+      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+      "published": "2026-11-13T17:15:54+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "published": "2026-11-13T17:02:35+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "published": "2026-11-13T16:26:32+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "published": "2026-11-13T16:21:43+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published": "2026-11-13T14:05:22+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "published": "2026-11-13T14:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "published": "2026-11-13T13:00:42+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+      "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+      "published": "2026-11-13T13:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AI Doesn’t Have to Go Rogue to Break the World",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+      "published": "2026-11-13T12:03:30+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
     },
     {
       "title": "llm-gemini 0.37",
@@ -18,35 +138,11 @@
       "category": "ai"
     },
     {
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "published": "2026-11-12T22:53:10+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
       "url": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
       "published": "2026-11-12T22:46:05+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "published": "2026-11-12T22:28:47+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "published": "2026-11-12T22:25:30+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
       "category": "cybersecurity"
     },
     {
@@ -66,44 +162,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "published": "2026-11-12T20:15:16+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-      "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "published": "2026-11-12T20:09:41+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
       "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
       "published": "2026-11-12T20:01:33+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "published": "2026-11-12T19:59:59+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "published": "2026-11-12T19:07:35+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
     },
     {
       "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
@@ -114,28 +178,12 @@
       "category": "ai"
     },
     {
-      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
-      "published": "2026-11-12T14:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Another Way Police Are Locating People from Their Smartphones",
       "url": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
       "published": "2026-11-12T12:02:58+00:00",
       "source": "Schneier on Security",
       "source_id": "schneier",
       "category": "cybersecurity"
-    },
-    {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "published": "2026-11-12T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
     },
     {
       "title": "Gemini Decisions API",
@@ -178,14 +226,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "published": "2026-11-11T05:01:16+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "published": "2026-11-11T03:00:20+00:00",
@@ -210,52 +250,12 @@
       "category": "offensive-security"
     },
     {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "published": "2026-11-10T16:00:03+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
-    },
-    {
-      "title": "New OpenSSH Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-      "published": "2026-11-10T12:02:38+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "published": "2026-11-10T07:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Launching the Vite Ecosystem Fund",
-      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
-      "published": "2026-11-09T13:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Principal Problems: App Registrations, Service Principals, and the Hidden Risk of Multi-Tenant Apps",
       "url": "https://specterops.io/blog/2026/11/06/app-registrations-vs-service-principals/",
       "published": "2026-11-06T17:00:00+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "The post-quantum future of web privacy",
-      "url": "https://blog.cloudflare.com/vole-mole/",
-      "published": "2026-11-06T14:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
     },
     {
       "title": "After Binance, check what your signing systems can approve",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-13T06:57:19.219563+00:00"
+      "last_success": "2026-11-13T19:52:28.044556+00:00"
     }
   ]
 }
