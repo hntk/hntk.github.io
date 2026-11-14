@@ -1,18 +1,58 @@
 {
-  "updated": "2026-11-14T06:44:04.417139+00:00",
+  "updated": "2026-11-14T18:17:47.456837+00:00",
   "items": [
     {
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "published": "2026-11-14T00:49:13+00:00",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "published": "2026-11-14T17:27:25+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
+      "published": "2026-11-14T17:02:39+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "published": "2026-11-14T15:15:49+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "published": "2026-11-14T13:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "published": "2026-11-14T12:15:48+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
     },
     {
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "published": "2026-11-13T23:17:38+00:00",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "published": "2026-11-14T12:05:51+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "published": "2026-11-14T00:49:13+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -32,14 +72,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-      "published": "2026-11-13T21:59:01+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
@@ -90,14 +122,6 @@
       "category": "ai"
     },
     {
-      "title": "German military drone operations disrupted by cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "published": "2026-11-13T17:31:56+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "The Microsoft Outage Is a Warning for the World",
       "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
       "published": "2026-11-13T17:15:54+00:00",
@@ -112,14 +136,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "published": "2026-11-13T16:21:43+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -186,14 +202,6 @@
       "category": "ai"
     },
     {
-      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
-      "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
-      "published": "2026-11-12T20:01:33+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
       "published": "2026-11-12T14:00:59+00:00",
@@ -216,14 +224,6 @@
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-      "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-      "published": "2026-11-11T12:05:34+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-14T06:44:04.417139+00:00"
+      "last_success": "2026-11-14T18:17:47.456837+00:00"
     }
   ]
 }
