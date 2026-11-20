@@ -1,6 +1,110 @@
 {
-  "updated": "2026-11-20T07:29:52.946753+00:00",
+  "updated": "2026-11-20T20:32:17.189548+00:00",
   "items": [
+    {
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "published": "2026-11-20T20:26:33+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "published": "2026-11-20T20:24:38+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "published": "2026-11-20T20:00:45+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "published": "2026-11-20T19:52:59+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+      "published": "2026-11-20T19:21:50+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "published": "2026-11-20T19:21:49+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "published": "2026-11-20T18:51:43+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "published": "2026-11-20T18:35:40+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "published": "2026-11-20T17:30:00+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "published": "2026-11-20T17:04:04+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "published": "2026-11-20T16:30:48+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "published": "2026-11-20T15:58:06+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Opening a 400-Year-Old Cryptex",
+      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
+      "published": "2026-11-20T12:04:46+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
     {
       "title": "Token fraud is here and it’s BAD (YouTube)",
       "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
@@ -18,73 +122,25 @@
       "category": "tech-architecture"
     },
     {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "published": "2026-11-20T00:26:25+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "published": "2026-11-20T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "published": "2026-11-20T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
     },
     {
       "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
       "url": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
       "published": "2026-11-19T22:40:03+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "published": "2026-11-19T22:25:42+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "published": "2026-11-19T22:16:37+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-      "published": "2026-11-19T21:19:12+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "published": "2026-11-19T21:15:59+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PostgreSQL 19 Released",
-      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-      "published": "2026-11-19T20:43:57+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "published": "2026-11-19T20:29:46+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Second Norwegian Energy Company Breached in Two Days",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-      "published": "2026-11-19T20:14:15+00:00",
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
@@ -96,14 +152,6 @@
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
-      "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
-      "published": "2026-11-19T19:57:31+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -130,30 +178,6 @@
       "category": "offensive-security"
     },
     {
-      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
-      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
-      "published": "2026-11-19T14:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "llm-gemini 0.38",
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "published": "2026-11-18T23:59:20+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
-      "url": "https://blog.cloudflare.com/open-clairic/",
-      "published": "2026-11-18T22:00:00+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "published": "2026-11-18T19:54:56+00:00",
@@ -170,28 +194,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "published": "2026-11-18T18:53:43+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
       "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
       "published": "2026-11-18T16:35:24+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "published": "2026-11-18T15:00:23+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
     },
     {
       "title": "Achieving the impossible: XSS in innerHTML without equals",
@@ -250,14 +258,6 @@
       "category": "ai"
     },
     {
-      "title": "Usable Security at Luxury Hotels",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "published": "2026-11-16T12:04:42+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Microsoft Research Focus – Edition #98",
       "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
       "published": "2026-11-12T21:31:57+00:00",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-20T07:29:52.946753+00:00"
+      "last_success": "2026-11-20T20:32:17.189548+00:00"
     }
   ]
 }
