@@ -1,13 +1,37 @@
 {
-  "updated": "2026-11-20T20:32:17.189548+00:00",
+  "updated": "2026-11-21T07:25:44.216876+00:00",
   "items": [
     {
-      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "published": "2026-11-20T20:26:33+00:00",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "published": "2026-11-20T22:28:24+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
+    },
+    {
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "published": "2026-11-20T22:16:51+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "published": "2026-11-20T21:58:29+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "published": "2026-11-20T21:03:27+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
     },
     {
       "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
@@ -23,22 +47,6 @@
       "published": "2026-11-20T20:00:45+00:00",
       "source": "Cloudflare",
       "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "published": "2026-11-20T19:52:59+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "published": "2026-11-20T19:21:50+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
       "category": "tech-architecture"
     },
     {
@@ -136,14 +144,6 @@
       "source": "Hugging Face",
       "source_id": "hugging-face",
       "category": "ai"
-    },
-    {
-      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
-      "url": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
-      "published": "2026-11-19T22:40:03+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-20T20:32:17.189548+00:00"
+      "last_success": "2026-11-21T07:25:44.216876+00:00"
     }
   ]
 }
