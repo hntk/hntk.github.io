@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-21T19:29:30.148082+00:00",
+  "updated": "2026-11-22T07:06:25.157682+00:00",
   "items": [
+    {
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "published": "2026-11-21T23:56:28+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "published": "2026-11-21T22:59:58+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "published": "2026-11-21T22:12:41+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
@@ -13,14 +37,6 @@
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
       "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
       "published": "2026-11-21T15:17:27+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "published": "2026-11-21T14:26:04+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -45,14 +61,6 @@
       "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
       "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
       "published": "2026-11-20T22:28:24+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "published": "2026-11-20T22:16:51+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -120,14 +128,6 @@
       "source": "Schneier on Security",
       "source_id": "schneier",
       "category": "cybersecurity"
-    },
-    {
-      "title": "llm-gemini 0.38.1",
-      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-      "published": "2026-11-20T03:01:57+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-21T19:29:30.148082+00:00"
+      "last_success": "2026-11-22T07:06:25.157682+00:00"
     }
   ]
 }
