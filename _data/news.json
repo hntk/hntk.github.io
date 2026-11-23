@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-22T19:50:54.149557+00:00",
+  "updated": "2026-11-23T07:53:29.799521+00:00",
   "items": [
+    {
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "published": "2026-11-23T07:44:19+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "published": "2026-11-22T19:45:06+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
@@ -13,14 +29,6 @@
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
       "published": "2026-11-22T15:43:04+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "published": "2026-11-22T15:15:25+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
       "category": "cybersecurity"
@@ -66,6 +74,14 @@
       "category": "tech-architecture"
     },
     {
+      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+      "published": "2026-11-21T01:31:23+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
       "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
       "published": "2026-11-20T21:03:27+00:00",
@@ -104,22 +120,6 @@
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-      "published": "2026-11-20T17:04:04+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Quoting Levent Alpöge",
-      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-      "published": "2026-11-20T16:30:48+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Opening a 400-Year-Old Cryptex",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-22T19:50:54.149557+00:00"
+      "last_success": "2026-11-23T07:53:29.799521+00:00"
     }
   ]
 }
