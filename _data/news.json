@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T00:03:56.036454+00:00",
+  "updated": "2026-11-24T10:06:16.870837+00:00",
   "items": [
+    {
+      "title": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "published": "2026-11-24T04:24:29+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "published": "2026-11-24T03:45:57+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
       "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
@@ -24,14 +40,6 @@
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Ladybird's first alpha release",
-      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
-      "published": "2026-11-23T21:46:35+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
@@ -128,14 +136,6 @@
       "source": "WIRED Security",
       "source_id": "wired",
       "category": "cybersecurity"
-    },
-    {
-      "title": "datasette-charts 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
-      "published": "2026-11-23T00:37:20+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "How to build and maintain an agentic evaluation",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-24T00:03:56.036454+00:00"
+      "last_success": "2026-11-24T10:06:16.870837+00:00"
     }
   ]
 }
