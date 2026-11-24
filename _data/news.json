@@ -1,61 +1,149 @@
 {
-  "updated": "2026-11-23T07:53:29.799521+00:00",
+  "updated": "2026-11-24T00:03:56.036454+00:00",
   "items": [
     {
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "published": "2026-11-23T07:44:19+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Select Styling Specimens",
-      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
-      "published": "2026-11-22T19:45:06+00:00",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "published": "2026-11-23T23:40:49+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
     },
     {
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "published": "2026-11-22T18:45:37+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
+      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+      "published": "2026-11-23T22:02:46+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "published": "2026-11-22T15:43:04+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-      "published": "2026-11-22T12:07:41+00:00",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "published": "2026-11-23T21:58:34+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
     },
     {
-      "title": "Muru",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "published": "2026-11-21T23:56:28+00:00",
+      "title": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "published": "2026-11-23T21:46:35+00:00",
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
     },
     {
-      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "published": "2026-11-21T22:12:41+00:00",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "published": "2026-11-23T21:30:44+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
+    },
+    {
+      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+      "published": "2026-11-23T21:21:42+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "published": "2026-11-23T20:54:51+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+      "published": "2026-11-23T20:34:51+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+      "published": "2026-11-23T20:13:48+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "published": "2026-11-23T20:00:20+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "published": "2026-11-23T19:42:20+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "2026-11-23T17:20:37+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "published": "2026-11-23T17:00:08+00:00",
+      "source": "NVIDIA",
+      "source_id": "nvidia",
+      "category": "ai"
+    },
+    {
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "published": "2026-11-23T14:00:00+00:00",
+      "source": "Cloudflare",
+      "source_id": "cloudflare",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Humans Have Rights. Machines Do Not.",
+      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
+      "published": "2026-11-23T12:00:54+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "published": "2026-11-23T11:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "datasette-charts 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "published": "2026-11-23T00:37:20+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "published": "2026-11-23T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
     },
     {
       "title": "The Outages Are Just Getting Started",
@@ -63,30 +151,6 @@
       "published": "2026-11-21T13:00:00+00:00",
       "source": "WIRED Security",
       "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "“Race realism” isn’t realistic—and it isn’t good science",
-      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-      "published": "2026-11-21T12:01:13+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-      "published": "2026-11-21T01:31:23+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "published": "2026-11-20T21:03:27+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
       "category": "cybersecurity"
     },
     {
@@ -106,22 +170,6 @@
       "category": "tech-architecture"
     },
     {
-      "title": "Quoting Ravi Vakil",
-      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-      "published": "2026-11-20T19:21:49+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "In Security, Words Matter as Much as Tools, Maybe More",
-      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-      "published": "2026-11-20T18:35:40+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Opening a 400-Year-Old Cryptex",
       "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
       "published": "2026-11-20T12:04:46+00:00",
@@ -130,24 +178,8 @@
       "category": "cybersecurity"
     },
     {
-      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-      "url": "https://blog.cloudflare.com/nginx2root/",
-      "published": "2026-11-20T01:58:29+00:00",
-      "source": "Cloudflare",
-      "source_id": "cloudflare",
-      "category": "tech-architecture"
-    },
-    {
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "url": "https://huggingface.co/blog/inkling2mini",
-      "published": "2026-11-20T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
       "published": "2026-11-20T00:00:00+00:00",
       "source": "Hugging Face",
       "source_id": "hugging-face",
@@ -186,36 +218,12 @@
       "category": "offensive-security"
     },
     {
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "published": "2026-11-18T19:54:56+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
-      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
-      "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
-      "published": "2026-11-18T19:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Achieving the impossible: XSS in innerHTML without equals",
       "url": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
       "published": "2026-11-18T14:39:45+00:00",
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-      "published": "2026-11-18T14:00:31+00:00",
-      "source": "NVIDIA",
-      "source_id": "nvidia",
-      "category": "ai"
     },
     {
       "title": "France Is Blaming Iran for the Fridge Cyberattack",
@@ -240,14 +248,6 @@
       "source": "Microsoft Research",
       "source_id": "microsoft-research",
       "category": "ai"
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "published": "2026-11-17T12:05:43+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-23T07:53:29.799521+00:00"
+      "last_success": "2026-11-24T00:03:56.036454+00:00"
     }
   ]
 }
