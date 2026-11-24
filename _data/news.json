@@ -1,6 +1,110 @@
 {
-  "updated": "2026-11-24T10:06:16.870837+00:00",
+  "updated": "2026-11-24T22:36:49.077073+00:00",
   "items": [
+    {
+      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+      "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "published": "2026-11-24T22:05:34+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+      "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+      "published": "2026-11-24T21:48:06+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "published": "2026-11-24T21:37:30+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "published": "2026-11-24T21:36:11+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "published": "2026-11-24T20:34:53+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "published": "2026-11-24T20:21:20+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "published": "2026-11-24T20:00:18+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "published": "2026-11-24T18:59:52+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "published": "2026-11-24T18:47:57+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "published": "2026-11-24T16:53:59+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published": "2026-11-24T16:34:13+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
+    },
+    {
+      "title": "We Get the Infrastructure We Pay For",
+      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
+      "published": "2026-11-24T12:06:50+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+      "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/",
+      "published": "2026-11-24T11:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
+      "category": "cybersecurity"
+    },
     {
       "title": "datasette-charts 0.2a0",
       "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
@@ -16,86 +120,6 @@
       "source": "Simon Willison",
       "source_id": "simon-willison",
       "category": "ai"
-    },
-    {
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-      "published": "2026-11-23T23:40:49+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
-      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
-      "published": "2026-11-23T22:02:46+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
-      "published": "2026-11-23T21:58:34+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "published": "2026-11-23T21:30:44+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
-      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
-      "published": "2026-11-23T21:21:42+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "published": "2026-11-23T20:54:51+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-      "published": "2026-11-23T20:34:51+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
-      "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-      "published": "2026-11-23T20:13:48+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "published": "2026-11-23T20:00:20+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "published": "2026-11-23T19:42:20+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
     },
     {
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -178,14 +202,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "published": "2026-11-20T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
       "published": "2026-11-19T20:00:15+00:00",
@@ -202,14 +218,6 @@
       "category": "ai"
     },
     {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "published": "2026-11-19T17:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "The FBI ARTEX Advisory and the Paths to Your Critical Systems",
       "url": "https://specterops.io/blog/2026/11/19/blog-fbi-artex-warning-attack-paths/",
       "published": "2026-11-19T15:19:36+00:00",
@@ -224,14 +232,6 @@
       "source": "PortSwigger Research",
       "source_id": "portswigger",
       "category": "offensive-security"
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "published": "2026-11-18T12:05:35+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "Black October Made Attack Path Management a “Now” Problem",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-24T10:06:16.870837+00:00"
+      "last_success": "2026-11-24T22:36:49.077073+00:00"
     }
   ]
 }
