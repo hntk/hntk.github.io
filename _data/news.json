@@ -1,12 +1,76 @@
 {
-  "updated": "2026-11-27T08:48:31.396363+00:00",
+  "updated": "2026-11-27T21:27:53.809687+00:00",
   "items": [
     {
-      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-      "published": "2026-11-27T08:06:58+00:00",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "published": "2026-11-27T19:26:04+00:00",
       "source": "BleepingComputer",
       "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "published": "2026-11-27T18:57:42+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "published": "2026-11-27T17:06:13+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "published": "2026-11-27T15:27:20+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "published": "2026-11-27T14:00:00+00:00",
+      "source": "Dark Reading",
+      "source_id": "dark-reading",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published": "2026-11-27T12:05:01+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "Recent Outages Have Economic Causes",
+      "url": "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html",
+      "published": "2026-11-27T12:02:23+00:00",
+      "source": "Schneier on Security",
+      "source_id": "schneier",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "published": "2026-11-27T11:30:04+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
+    {
+      "title": "The British Government is Turning Everyone Into a Prepper",
+      "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+      "published": "2026-11-27T10:00:00+00:00",
+      "source": "WIRED Security",
+      "source_id": "wired",
       "category": "cybersecurity"
     },
     {
@@ -18,28 +82,12 @@
       "category": "tech-architecture"
     },
     {
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "published": "2026-11-26T21:06:22+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
-      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
-      "published": "2026-11-26T18:00:29+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
-      "published": "2026-11-26T17:58:42+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27T00:00:00+00:00",
+      "source": "Hugging Face",
+      "source_id": "hugging-face",
+      "category": "ai"
     },
     {
       "title": "Quoting Jack Despain Zhou",
@@ -56,14 +104,6 @@
       "source": "NVIDIA",
       "source_id": "nvidia",
       "category": "ai"
-    },
-    {
-      "title": "Draining peatlands is responsible for a few percent of our global warming",
-      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-      "published": "2026-11-26T12:15:42+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
     },
     {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -106,36 +146,12 @@
       "category": "ai"
     },
     {
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "published": "2026-11-26T00:00:00+00:00",
-      "source": "Hugging Face",
-      "source_id": "hugging-face",
-      "category": "ai"
-    },
-    {
       "title": "Beyond Branch Protection: Understanding GitHub Attack Paths",
       "url": "https://specterops.io/blog/2026/11/25/beyond-branch-protection-understanding-github-attack-paths/",
       "published": "2026-11-25T23:26:21+00:00",
       "source": "SpecterOps",
       "source_id": "specterops",
       "category": "offensive-security"
-    },
-    {
-      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
-      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
-      "published": "2026-11-25T15:48:04+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "It's a Bot World. We're Just Living in It",
-      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
-      "published": "2026-11-25T15:20:27+00:00",
-      "source": "Dark Reading",
-      "source_id": "dark-reading",
-      "category": "cybersecurity"
     },
     {
       "title": "Introducing Search for Agents",
@@ -178,14 +194,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
-      "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/",
-      "published": "2026-11-24T11:00:00+00:00",
-      "source": "WIRED Security",
-      "source_id": "wired",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
       "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
       "published": "2026-11-23T17:00:08+00:00",
@@ -200,14 +208,6 @@
       "source": "Cloudflare",
       "source_id": "cloudflare",
       "category": "tech-architecture"
-    },
-    {
-      "title": "Humans Have Rights. Machines Do Not.",
-      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
-      "published": "2026-11-23T12:00:54+00:00",
-      "source": "Schneier on Security",
-      "source_id": "schneier",
-      "category": "cybersecurity"
     },
     {
       "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-27T08:48:31.396363+00:00"
+      "last_success": "2026-11-27T21:27:53.809687+00:00"
     }
   ]
 }
