@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T21:43:52.217690+00:00",
+  "updated": "2026-11-27T08:48:31.396363+00:00",
   "items": [
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "published": "2026-11-27T08:06:58+00:00",
+      "source": "BleepingComputer",
+      "source_id": "bleepingcomputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "published": "2026-11-27T08:00:53+00:00",
+      "source": "Ars Technica",
+      "source_id": "ars-technica",
+      "category": "tech-architecture"
+    },
     {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
@@ -26,14 +42,6 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "published": "2026-11-26T17:15:27+00:00",
-      "source": "BleepingComputer",
-      "source_id": "bleepingcomputer",
-      "category": "cybersecurity"
-    },
-    {
       "title": "Quoting Jack Despain Zhou",
       "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
       "published": "2026-11-26T15:09:31+00:00",
@@ -53,14 +61,6 @@
       "title": "Draining peatlands is responsible for a few percent of our global warming",
       "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
       "published": "2026-11-26T12:15:42+00:00",
-      "source": "Ars Technica",
-      "source_id": "ars-technica",
-      "category": "tech-architecture"
-    },
-    {
-      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-      "published": "2026-11-26T12:00:14+00:00",
       "source": "Ars Technica",
       "source_id": "ars-technica",
       "category": "tech-architecture"
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-26T21:43:52.217690+00:00"
+      "last_success": "2026-11-27T08:48:31.396363+00:00"
     }
   ]
 }
