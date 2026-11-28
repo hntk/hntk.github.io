@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-27T21:27:53.809687+00:00",
+  "updated": "2026-11-28T08:05:20.348023+00:00",
   "items": [
+    {
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "published": "2026-11-27T23:57:17+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
     {
       "title": "pCloud confirms password manager hack after suspicious login alerts",
       "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
@@ -82,6 +90,14 @@
       "category": "tech-architecture"
     },
     {
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "published": "2026-11-27T00:26:17+00:00",
+      "source": "Simon Willison",
+      "source_id": "simon-willison",
+      "category": "ai"
+    },
+    {
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
       "url": "https://huggingface.co/blog/video-trainium3",
       "published": "2026-11-27T00:00:00+00:00",
@@ -120,22 +136,6 @@
       "source": "Dark Reading",
       "source_id": "dark-reading",
       "category": "cybersecurity"
-    },
-    {
-      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-      "published": "2026-11-26T06:08:25+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
-      "published": "2026-11-26T05:08:46+00:00",
-      "source": "Simon Willison",
-      "source_id": "simon-willison",
-      "category": "ai"
     },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -295,79 +295,79 @@
       "id": "ars-technica",
       "name": "Ars Technica",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "bleepingcomputer",
       "name": "BleepingComputer",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "cloudflare",
       "name": "Cloudflare",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "dark-reading",
       "name": "Dark Reading",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "microsoft-research",
       "name": "Microsoft Research",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "portswigger",
       "name": "PortSwigger Research",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "schneier",
       "name": "Schneier on Security",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "simon-willison",
       "name": "Simon Willison",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "specterops",
       "name": "SpecterOps",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "trail-of-bits",
       "name": "Trail of Bits",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     },
     {
       "id": "wired",
       "name": "WIRED Security",
       "status": "ok",
-      "last_success": "2026-11-27T21:27:53.809687+00:00"
+      "last_success": "2026-11-28T08:05:20.348023+00:00"
     }
   ]
 }
